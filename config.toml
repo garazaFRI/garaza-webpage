@@ -1,0 +1,49 @@
+baseurl = "http://garaza.io/"
+languageCode = "en-us"
+title = "Garaza FRI"
+theme = "garaza"
+author = "Blaz Kostanjsek"
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Želiš uresničiti svoje ideje? Postani del Garaže."
+  googleAnalytics = "Your Google Analytics tracking ID"
+  dateFormat = "02 Jan 2006, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "O Garaži"
+    weight = 0
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Projekti"
+    weight = 1
+    identifier = "project"
+    url = "/project/"
+  [[menu.main]]
+    name = "Dogodki"
+    weight = 2
+    identifier = "event"
+    url = "/event/"
+  [[menu.main]]
+    name = "Pridruži Se"
+    weight = 3
+    url = "/join/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "*"
+  facebook = "*"
+  instagram = "*"
+  github = "*"
+  stackoverflow = "*"
+  linkedin = "*"

@@ -1,0 +1,17 @@
+<div class="element element-poudarjen">
+    <div class="element-datum">
+        <span class="element-datum-dan">{{ .Date.Format "2" }}</span>
+        <span class="element-datum-mesec">{{ .Date.Format "Jan" }}</span>
+        <span class="element-datum-leto">{{ .Date.Format "2006"}}</span>
+    </div>
+
+    <div class="element-podatki">
+        <div class="element-header">
+            <span class="element-title">{{ .Title }}</span>
+        </div>
+
+        <div class="element-body">
+            <p>{{ .Summary }}</p>
+        </div>
+    </div>
+</div>

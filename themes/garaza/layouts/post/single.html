@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<main class="container">
+    <div class="skip-medium">
+        <div class="skip-small">
+            <div class="element">
+                <div class="element-podatki">
+                    <h1>{{ .Title }}</h1>
+                    {{ partial "post_meta.html" . }}
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}

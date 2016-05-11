@@ -1,0 +1,29 @@
+<article>
+    <div class="skip-small">
+
+        <div class="element element-poudarjen">
+            <div class="element-logotip">
+                <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" class="logotip"/></a>
+            </div>
+
+            <div class="element-podatki">
+                <div class="element-header">
+                    <a href="{{ .Permalink }}"><span class="element-title">{{ .Title }}</span></a>
+                </div>
+
+                <div class="element-body">
+                    <p>{{ partial "post_meta.html" . }}</p>
+                    <p>
+                        {{ .Summary }}
+                    </p>
+                </div>
+                {{ if .Truncated }}
+                <footer>
+                    <a href="{{ .RelPermalink }}">Preberi več ...<i class="fa fa-angle-double-right fa-fw"></i></a>
+                </footer>
+                {{ end }}
+
+            </div>
+        </div>
+    </div>
+</article>

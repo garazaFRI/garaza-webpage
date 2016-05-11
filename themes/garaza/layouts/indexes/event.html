@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+<section>
+  <img src="/img/cover4.jpg" alt="" class="cover">
+</section>
+
+<section id="notifications-container" class="notification">
+    <div class="container">
+        <h2>{{ .Title }}</h2>
+    </div>
+</section>
+
+
+<div class="container">
+    {{ range .Data.Pages.GroupByDate "2006" }}
+    <div class="skip-medium">
+        <div class="row">
+            {{ range .Pages }}
+            {{ .Render "event_box" }}
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+{{ partial "footer.html" . }}
+
+
+
