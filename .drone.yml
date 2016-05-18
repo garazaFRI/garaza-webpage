@@ -1,0 +1,4 @@
+build:
+  image: matjazp/hugo
+  commands:
+    - hugo
