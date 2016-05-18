@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+<section>
+  <img src="/img/cover-join.jpg" alt="" class="cover">
+</section>
+
+<section id="notifications-container" class="notification">
+    <div class="container">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Description }}</p>
+    </div>
+</section>
+
+<main class="container">
+    <div class="skip-medium">
+        <div class="skip-small">
+            <div class="element">
+                <div class="element-podatki">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
