@@ -1,4 +1,12 @@
 build:
-  image: matjazp/hugo
+  image: matjazp/hugo-ci
   commands:
     - hugo
+    - rm -rf .git #remove git history
+    - cd public
+    - git init
+    - git config user.email "drone@garaza.io"
+    - git config user.name "drone-ci"
+    - git add .
+    - git commit -m "deploy from drone-ci"
+    - git push -f https://$GH_TOKEN@github.com/garazafri/garazafri.github.io.git master:master
