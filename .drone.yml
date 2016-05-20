@@ -4,7 +4,14 @@ build:
     - hugo
     - mv -f public /tmp/public
     - find -delete
-    - mv -f /tmp/public .
+    - shopt -s dotglob
+    - mv -f /tmp/public/* .
+    - ls -la
+    - git init
+    - git config user.email "drone@garaza.io"
+    - git config user.name "drone-ci"
+    - git add --all
+    - git commit -m "deploy from drone-ci"
 deploy:
   git_push:
     branch: master
