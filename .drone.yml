@@ -3,7 +3,7 @@ build:
   commands:
     - hugo
     - mv -f public /tmp/public
-    - rm -rf .
+    - find -delete
     - mv -f /tmp/public .
 deploy:
   git_push:
