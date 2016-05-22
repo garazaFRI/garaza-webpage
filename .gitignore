@@ -2,7 +2,7 @@ archive
 /public
 
 # secret.yml for .drone.yml
-secret.yml
+secrets.yml
 
 
 ### JetBrains template
