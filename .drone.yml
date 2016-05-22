@@ -16,6 +16,6 @@ deploy:
     branch: master
     remote: git@github.com:garazaFRI/garazafri.github.io.git
     force: true
-    commit: true
+    commit: false
     when:
         branch: master
