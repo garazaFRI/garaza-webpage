@@ -24,10 +24,10 @@ paginate = 10
     identifier = "about"
     url = "/about/"
   [[menu.main]]
-    name = "Projekti"
+    name = "Programi"
     weight = 1
-    identifier = "project"
-    url = "/project/"
+    identifier = "program"
+    url = "/program/"
   [[menu.main]]
     name = "Dogodki"
     weight = 2
