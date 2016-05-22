@@ -1,7 +1,7 @@
 +++
 date = "2016-05-10T13:01:03+02:00"
 description = ""
-draft = true
+draft = false
 tags = []
 title = "Kako postaneš del Garaže?"
 topics = []
