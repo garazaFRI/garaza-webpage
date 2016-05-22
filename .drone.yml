@@ -5,7 +5,7 @@ build:
     - mv -f public /tmp/public
     - find -delete
     - /bin/bash -c "shopt -s dotglob; mv -f /tmp/public/* ."
-    - ls -la
+    - echo "garaza.io" > CNAME #add CNAME
     - git init
     - git config user.email "drone@garaza.io"
     - git config user.name "drone-ci"
