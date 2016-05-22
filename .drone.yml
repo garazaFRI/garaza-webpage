@@ -4,8 +4,7 @@ build:
     - hugo
     - mv -f public /tmp/public
     - find -delete
-    - shopt -s dotglob
-    - mv -f /tmp/public/* .
+    - /bin/bash -c "shopt -s dotglob; mv -f /tmp/public/* ."
     - ls -la
     - git init
     - git config user.email "drone@garaza.io"
