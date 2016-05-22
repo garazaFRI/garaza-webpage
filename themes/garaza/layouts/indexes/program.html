@@ -15,7 +15,7 @@
     {{ range .Data.Pages.GroupByDate "2006" }}
     <div class="skip-medium">
         <div class="row">
-            {{ range .Pages }}
+            {{ range .Pages.ByWeight }}
             {{ .Render "li_box" }}
             {{ end }}
         </div>
