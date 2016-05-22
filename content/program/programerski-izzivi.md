@@ -1,7 +1,7 @@
 +++
 date = "2016-05-10T14:53:00+02:00"
 description = ""
-draft = true
+draft = false
 tags = []
 title = "Programerski izzivi in tekmovanja"
 topics = []
