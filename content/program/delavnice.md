@@ -5,6 +5,6 @@ draft = false
 tags = []
 title = "Delavnice"
 topics = []
-
+weight = 2
 +++
 Praktične ("*hands-on*") delavnice o aktualnih strokovnih temah.

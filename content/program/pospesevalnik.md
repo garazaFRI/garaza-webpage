@@ -5,7 +5,7 @@ draft = false
 tags = []
 title = "Pospeševalnik"
 topics = []
-
+weight = 1
 +++
 Najpomembnejša dejavnost Garaže. Izbrane študentske ekipe v programu Pospeševalnika gradijo svoje ideje.
 

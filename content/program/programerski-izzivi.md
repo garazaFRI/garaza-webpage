@@ -5,7 +5,7 @@ draft = false
 tags = []
 title = "Programerski izzivi in tekmovanja"
 topics = []
-
+weight = 3
 +++
 FRI sodeluje z različnimi podjetji in v sodelovanju z njimi pripravlja za svoje študente več različnih izzivov.
 Vsi študenti, ki sodelujejo v enem od izzivov, lahko v času trajanja izziva uporabljajo prostore Garaže za
