@@ -5,7 +5,7 @@ image = "/img/PNG_GARAZA_LOGOTIP_I.png"
 
 +++
 
-V mesecu marcu Garaža FRI odpira svoja vrata vsem nadobudnim študentom, ki jim študij ni dovolj. 
+V mesecu maju Garaža FRI odpira svoja vrata vsem nadobudnim študentom, ki jim študij ni dovolj. 
 V okviru prvega tehnološkega pospeševalnika na FRI bodo študenti uresničili svoje ideje, 
 za katere do sedaj bodisi ni bilo znanja, opreme, prostora za delo ali pa niso poznali
 primerne tehnologije.
