@@ -79,15 +79,17 @@ footer {
 /* NAVBAR ------------------------------------------------------------------ */
 .navbar-fri {
   border-radius: 0;
-  //background-color: rgba(255, 255, 255, 0.93);
-  background-color: rgba(238, 46, 43, 1);
+  background-color: rgba(255, 255, 255, 0.93);
+  //background-color: rgba(238, 46, 43, 1);
   border: none;
   border-bottom: 15px solid #C4161C;
   margin-top: 0;
   margin-bottom: 0;
 }
   .navbar-fri .navbar-brand {
-    color: whitesmoke;
+/*    color: whitesmoke;*/
+/*    color: #333;*/
+    color: #9d9fa2;
     height: 100px; }
     .navbar-fri .navbar-brand:hover, .navbar-fri .navbar-brand:focus {
       color: #C4161C;
@@ -106,8 +108,8 @@ footer {
   .navbar-fri .navbar-nav > li > a {
     font-family: KlavikaMedium, Verdana;
     text-transform: uppercase;
-    //color: #333;
-    color: whitesmoke;
+    color: #333;
+/*    color: whitesmoke;*/
     font-size: 18px; }
     @media (min-width: 768px) {
       .navbar-fri .navbar-nav > li > a {
