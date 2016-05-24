@@ -22,6 +22,34 @@ description = "V Garaži gradimo skupnost, kjer se srečujemo, učimo, razvijamo
 
 # Garaže ne bi bilo brez naših sponzorjev
 
-- Zlati sponzor: **Microsoft**
-- Srebrni sponzorji: **Lenovo** in **Intel**, **Nil**
-- Bronasti sponzorji: **CHS ITIPO**
+#### Zlati sponzor:
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-5"><img src="/img/microsoft-logo.png" width=100%></div>
+    <div class="col-xs-6"></div>
+  </div>
+</div>
+
+#### Srebrni sponzor: 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-3"><img src="/img/nil-logo.png" width=100%></div>
+    <div class="col-xs-1"></div>
+    <div class="col-xs-3"><img src="/img/intel-logo.png" width=100%></div>
+    <div class="col-xs-1"></div>
+    <div class="col-xs-3"><img src="/img/lenovo-logo.png" width=100%></div>
+  </div>
+</div>
+
+#### Bronasti sponzor:
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-2"><img src="/img/chsitipo-logo.gif" width=100%></div>
+    <div class="col-xs-2"></div>
+    <div class="col-xs-2"></div>
+    <div class="col-xs-2"></div>
+    <div class="col-xs-2"></div>
+    <div class="col-xs-2"></div>
+  </div>
+</div>
+
