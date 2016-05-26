@@ -13,7 +13,7 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "Želiš uresničiti svoje ideje? Postani del Garaže."
-  googleAnalytics = "Your Google Analytics tracking ID"
+  googleAnalytics = "UA-78366821-1"
   dateFormat = "02 Jan 2006, 15:04"
 
 [menu]
