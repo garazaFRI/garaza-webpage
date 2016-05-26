@@ -1,6 +1,6 @@
 baseurl = "http://garaza.io/"
 languageCode = "en-us"
-title = "Garaza FRI"
+title = "Garaža FRI | Študentski tehnološki pospeševalnik"
 theme = "garaza"
 author = "Blaz Kostanjsek"
 canonifyurls = true
