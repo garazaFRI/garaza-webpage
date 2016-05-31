@@ -459,8 +459,7 @@ input[type="file"] {
 
 .notification {
   border-top: 10px white solid;
-  background-color: #e12a26;
-  //background-color: #C4161C;
+  background-color: #C4161C;
   text-align: center;
   color: whitesmoke;
 }
