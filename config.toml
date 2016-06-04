@@ -6,7 +6,7 @@ author = "Blaz Kostanjsek"
 canonifyurls = true
 paginate = 10
 
-[indexes]
+[taxonomies]
   tag = "tags"
   topic = "topics"
 
@@ -37,6 +37,12 @@ paginate = 10
     name = "Pridruži Se"
     weight = 3
     url = "/join/"
+  [[menu.main]]
+    name = "FAQ"
+    weight = 4
+    url = "/faq/"
+
+
 
 [social]
   # Link your social networking accouns to the side menu
