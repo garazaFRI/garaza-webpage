@@ -1,7 +1,6 @@
 +++
 date = "2016-05-27T11:12:08+02:00"
 description = ""
-draft = true
 tags = [ "faq", "pospeševalnik" ]
 title = "Kako je z lastništvom kode/projekta/izdelka, narejenega v Garaži?"
 topics = []
