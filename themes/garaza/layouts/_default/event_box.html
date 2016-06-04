@@ -3,6 +3,9 @@
         <span class="element-datum-dan">{{ .Date.Format "2" }}</span>
         <span class="element-datum-mesec">{{ .Date.Format "Jan" }}</span>
         <span class="element-datum-leto">{{ .Date.Format "2006"}}</span>
+        {{ if isset .Params "linkrsvp" }}
+            <span class="element-datum-rsvp"><a href=" linkrsvp ">Prijava</a></span>
+        {{ end }} 
     </div>
 
     <div class="element-podatki">
