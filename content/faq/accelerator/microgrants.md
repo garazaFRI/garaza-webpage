@@ -3,7 +3,6 @@ date = "2016-05-27T11:12:08+02:00"
 description = ""
 tags = [ "faq", "pospeševalnik"]
 title = "Za uresničitev našega projekta nujno potrebujemo določeno opremo/softver/storitev. Je možno pridobiti sredstva za ta namen?"
-topics = []
 weight = 5
 faqcategory = "Pospeševalnik"
 

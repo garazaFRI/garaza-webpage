@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = []
 title = "Kako postaneš del Garaže?"
-topics = []
 type = "join"
 
 +++

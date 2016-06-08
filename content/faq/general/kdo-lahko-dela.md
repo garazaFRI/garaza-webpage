@@ -3,7 +3,6 @@ date = "2016-05-27T11:08:58+02:00"
 description = ""
 tags = ["faq", "Splošna vprašanja"]
 title = "Kdo lahko dela v Garaži?"
-topics = []
 weight = 4
 faqcategory = "Splošna vprašanja"
 

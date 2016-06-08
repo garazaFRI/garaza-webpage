@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = []
 title = "Skupinsko viharjenje in BoF sestanki"
-topics = []
 weight = 4
 +++
 

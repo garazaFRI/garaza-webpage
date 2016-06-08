@@ -3,7 +3,6 @@ date = "2016-05-27T11:08:58+02:00"
 description = ""
 tags = ["faq", "Splošna vprašanja"]
 title = "Za kakšne namene lahko uporabljamo prostore?"
-topics = []
 weight = 3
 faqcategory = "Splošna vprašanja"
 

@@ -3,7 +3,6 @@ date = "2016-05-27T11:08:58+02:00"
 description = ""
 tags = ["Splošna vprašanja"]
 title = "Kako dobim ključek za odklepanje in kako je urejen dostop do prostorov Garaže?"
-topics = []
 weight = 2
 faqcategory = "Splošna vprašanja"
 
