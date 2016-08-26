@@ -38,7 +38,6 @@ previsokega računa za elektriko bomo podrobno pregledali in skušali napasti vs
 načine za varovanje pred vsiljivci.
 
 Naučili se bomo: Arduino, Bluetooth LE, bluePy, Tornado, Websockets, REST, Wireshark
-Potrebno predznanje: osnove programiranja
 
 **Potrebno predznanje:** osnove programiranja
 
