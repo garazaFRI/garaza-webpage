@@ -2,7 +2,7 @@
 date = "2016-10-06"
 description = ""
 tags = ["workshop", "pod havbo", "delavnice", "MS", "azure", "Bot", "Bot Framework"]
-title = "Delavnica: Kako narediti pametnega "bota"?"
+title = "Delavnica: Kako narediti pametnega \"bota\"?"
 linkrsvp = "https://www.eventbrite.com/e/delavnica-kako-narediti-pametnega-bota-tickets-27930842903"
 
 +++
