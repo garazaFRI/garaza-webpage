@@ -10,14 +10,16 @@ linkrsvp = "https://www.eventbrite.com/e/delavnica-kako-narediti-pametnega-bota-
 
 **Predava:** Martin Pregl, Microsoft
 
-Pametni asistenti, chatboti, oziroma na kratko boti so z nami že mnogo let, zakaj so ravno zdaj postali hitro razvijajoče področje? Razlog tiči v tem, da so messaging aplikacije vedno popularnejše, nekateri celo trdijo, da so boti nove aplikacije, in nove paradigma pomeni novo priložnost.
+Pametni asistenti, chatboti, oziroma na kratko *boti* so z nami že mnogo let. Zakaj so ravno zdaj postali hitro razvijajoče področje? Razlog tiči v tem, da so
+"messaging" aplikacije vedno popularnejše, nekateri celo trdijo, da so boti nove aplikacije. Nova paradigma pomeni novo priložnost.
 
 Spoznali bomo Microsoft Bot Framework, platformo za gradnjo pametnih botov. Ključni deli delavnice bodo:
+
    - Kako lahko naredimo enostavnega bota
    - Dodajanje kanalov (Facebook, Slack, SMS, Email…)
    - Prepoznavanje uporabnikov
    - Dialogi
-   - Dodajanje »pameti«
+   - Dodajanje "pameti"
    - Razumevanje jezika in učenje ukazov
    - Integracija z zalednimi storitvami
 
@@ -34,11 +36,12 @@ Spoznali bomo Microsoft Bot Framework, platformo za gradnjo pametnih botov. Klju
    - Prenesite Bot Application predlogo tu: http://aka.ms/bf-bc-vstemplate in skopirajte zip datoteko v Template mapo (običajno `"%USERPROFILE%\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\"`)
    - MicrosoftID (oz LiveID) - https://login.live.com/ 
 
-2. Opcijsko si lahko tudi namestite:
+2. **Opcijsko** si lahko tudi namestite:
 
-   - Azure naročnina (v kolikor je nimate, boste aktivirali na sami delavnici)
+   - Azure naročnina (v kolikor je nimate, jo boste dobili in aktivirali na sami delavnici)
    
-Delavnica bo potekala v okolju C#, kdor pa želi, pa lahko razvija bota tudi v platformi node.JS. V tem primeru vas naprošamo, da is ogledate in namestite zahteve na tem spletnem naslovu https://blogs.msdn.microsoft.com/sarahsays/2016/06/01/microsoft-bot-framework-part-1/ 
+Delavnica bo potekala v okolju C#, kdor pa želi, pa lahko razvija bota tudi v platformi node.JS. V tem primeru vas naprošamo,
+da is ogledate in namestite zahteve na tem spletnem naslovu https://blogs.msdn.microsoft.com/sarahsays/2016/06/01/microsoft-bot-framework-part-1/ 
 
 
 [Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-kako-narediti-pametnega-bota-tickets-27930842903).
