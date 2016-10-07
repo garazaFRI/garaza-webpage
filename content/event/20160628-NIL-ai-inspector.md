@@ -35,3 +35,5 @@ omrežja na osnovi prometnih podatkov in o tem obvestila operaterja.
 - Teoretični uvod in iskanje anomalij na primeru linearne aproksimacije
 - Wireshark, zajem prometa, filtriranje zajetega prometa in izvoz v csv
 - Osnovna analiza prometa s programom Orange
+
+[Slike z delavnice](https://www.facebook.com/ulfri/posts/1032226346845939)

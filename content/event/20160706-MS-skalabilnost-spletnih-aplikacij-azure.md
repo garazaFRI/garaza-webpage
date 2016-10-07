@@ -35,3 +35,5 @@ Naloge s primeri so na voljo [tukaj](https://github.com/Azure-Readiness/DevCamp)
 **Agenda:**
 
 TBD
+
+[Slike z delavnice](https://www.facebook.com/ulfri/photos/a.141471039254812.30327.103673816367868/1036971866371387/?type=3)

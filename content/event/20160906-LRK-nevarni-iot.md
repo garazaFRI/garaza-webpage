@@ -68,3 +68,5 @@ Naučili se bomo: Arduino, Bluetooth LE, bluePy, Tornado, Websockets, REST, Wire
   - Arduino in kako lahko majhna napaka postane velik problem
 
 [Prijava na delavnico](https://www.eventbrite.com/e/poletna-sola-nevarni-internet-stvari-iot-tickets-27325702913)
+
+[Slike z delavnice](https://www.facebook.com/ulfri/posts/1080074902061083)

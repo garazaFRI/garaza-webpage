@@ -48,3 +48,5 @@ pridobivanje podatkov iz senzorjev, gumbov ter raznolikih akcij.
 Delali bomo sledeče [vaje](http://aka.ms/iot-ctd-field-labs), opremo (razen računalnika) prinesemo mi.
 
 [Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-azure-iot-v-praksi-tickets-27599858921).
+
+[Slike z delavnice](https://www.facebook.com/ulfri/posts/1091654567569783)

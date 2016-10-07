@@ -45,3 +45,5 @@ da is ogledate in namestite zahteve na tem spletnem naslovu https://blogs.msdn.m
 
 
 [Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-kako-narediti-pametnega-bota-tickets-27930842903).
+
+[Slike z delavnice](https://www.facebook.com/ulfri/posts/1104484686286771)
