@@ -34,12 +34,16 @@ paginate = 10
     identifier = "event"
     url = "/event/"
   [[menu.main]]
-    name = "Pridruži Se"
+    name = "Ekipe"
     weight = 3
+    url = "/teams/"
+  [[menu.main]]
+    name = "Pridruži Se"
+    weight = 4
     url = "/join/"
   [[menu.main]]
     name = "FAQ"
-    weight = 4
+    weight = 5
     url = "/faq/"
 
 
