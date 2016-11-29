@@ -5,7 +5,7 @@ draft = false
 tags = []
 title = "Kako postaneš del Garaže?"
 type = "join"
-
+url = "/pridruzise"
 +++
 
 # Pridružijo se nam lahko:

@@ -23,8 +23,8 @@ title = "Garaža FRI | Študentski tehnološki pospeševalnik"
 [[languages.si.menu.main]]
 name = "O Garaži"
 weight = 0
-identifier = "about"
-url = "/about/"
+identifier = "ogarazi"
+url = "/ogarazi/"
 [[languages.si.menu.main]]
 name = "Programi"
 weight = 1
@@ -38,7 +38,7 @@ url = "/event/"
 [[languages.si.menu.main]]
 name = "Pridruži Se"
 weight = 3
-url = "/join/"
+url = "/pridruzise/"
 [[languages.si.menu.main]]
 name = "FAQ"
 weight = 4
@@ -48,10 +48,28 @@ url = "/faq/"
 weight = 1
 title = "Garaža FRI | Student technology accelerator"
 [[languages.en.menu.main]]
-name = "About Garaža"
+name = "About"
 weight = 0
 identifier = "about"
 url = "/about/"
+[[languages.en.menu.main]]
+name = "Programs"
+weight = 1
+identifier = "program"
+url = "/program/"
+[[languages.en.menu.main]]
+name = "Events"
+weight = 2
+identifier = "event"
+url = "/event/"
+[[languages.en.menu.main]]
+name = "Join us"
+weight = 3
+url = "/join/"
+[[languages.en.menu.main]]
+name = "FAQ"
+weight = 4
+url = "/faq/"
 
 [social]
   # Link your social networking accouns to the side menu
