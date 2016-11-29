@@ -15,6 +15,10 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
+                <div class="language-selection">
+                    <a href="/">SI</a> |
+                    <a href="/en">EN</a>
+                </div>
                 {{ range .Site.Menus.main }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
                 {{end}}

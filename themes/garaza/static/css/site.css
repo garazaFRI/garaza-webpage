@@ -98,7 +98,7 @@ footer {
       height: 90%; }
   @media (min-width: 768px) {
     .navbar-fri .navbar-nav > li {
-      height: 100px; }
+      height: 65px; }
       .navbar-fri .navbar-nav > li:before {
         /* Strut element, da vertical-align deluje. */
         content: "";
@@ -503,3 +503,20 @@ input[type="file"] {
 .element .element-podatki h1 {
   color: #e12a26;
 }
+
+.language-selection {
+  text-align: right;
+  margin-right: 15px;
+  margin-top: 25px;
+}
+
+.language-selection a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #333;
+  font-family: KlavikaMedium, Verdana;
+}
+
+.language-selection > a:hover, .language-selection > a:focus {
+      color: #C4161C;
+      background-color: transparent; }

@@ -1,6 +1,6 @@
 baseurl = "http://garaza.io/"
-languageCode = "en-us"
-title = "Garaža FRI | Študentski tehnološki pospeševalnik"
+languageCode = "si"
+defaultContentLanguage = "si"
 theme = "garaza"
 author = "Blaz Kostanjsek"
 canonifyurls = true
@@ -16,33 +16,42 @@ paginate = 10
   googleAnalytics = "UA-78366821-1"
   dateFormat = "02 Jan 2006, 15:04"
 
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "O Garaži"
-    weight = 0
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Programi"
-    weight = 1
-    identifier = "program"
-    url = "/program/"
-  [[menu.main]]
-    name = "Dogodki"
-    weight = 2
-    identifier = "event"
-    url = "/event/"
-  [[menu.main]]
-    name = "Pridruži Se"
-    weight = 3
-    url = "/join/"
-  [[menu.main]]
-    name = "FAQ"
-    weight = 4
-    url = "/faq/"
+[languages]
+[languages.si]
+weight = 0
+title = "Garaža FRI | Študentski tehnološki pospeševalnik"
+[[languages.si.menu.main]]
+name = "O Garaži"
+weight = 0
+identifier = "about"
+url = "/about/"
+[[languages.si.menu.main]]
+name = "Programi"
+weight = 1
+identifier = "program"
+url = "/program/"
+[[languages.si.menu.main]]
+name = "Dogodki"
+weight = 2
+identifier = "event"
+url = "/event/"
+[[languages.si.menu.main]]
+name = "Pridruži Se"
+weight = 3
+url = "/join/"
+[[languages.si.menu.main]]
+name = "FAQ"
+weight = 4
+url = "/faq/"
 
-
+[languages.en]
+weight = 1
+title = "Garaža FRI | Student technology accelerator"
+[[languages.en.menu.main]]
+name = "About Garaža"
+weight = 0
+identifier = "about"
+url = "/about/"
 
 [social]
   # Link your social networking accouns to the side menu
