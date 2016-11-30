@@ -27,8 +27,8 @@ url = "/ogarazi/"
 [[languages.si.menu.main]]
 name = "Programi"
 weight = 1
-identifier = "program"
-url = "/program/"
+identifier = "programi"
+url = "/programi/"
 [[languages.si.menu.main]]
 name = "Dogodki"
 weight = 2
