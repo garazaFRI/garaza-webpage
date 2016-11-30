@@ -1,5 +1,4 @@
 baseurl = "http://garaza.io/"
-languageCode = "si"
 defaultContentLanguage = "si"
 theme = "garaza"
 author = "Blaz Kostanjsek"
@@ -55,8 +54,8 @@ url = "/about/"
 [[languages.en.menu.main]]
 name = "Programs"
 weight = 1
-identifier = "program"
-url = "/program/"
+identifier = "programs"
+url = "/programs/"
 [[languages.en.menu.main]]
 name = "Events"
 weight = 2
