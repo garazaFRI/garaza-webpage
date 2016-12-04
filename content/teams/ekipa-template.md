@@ -9,17 +9,19 @@ weight = 1
 Smo skupina Smrkci, ukvarjamo se z razvojem inteligentnih chatbotov.
 <!--more-->
 
-Člani ekipe:
+**Člani ekipe:**
 
 - Smrkec 1
 - Smrkec 2
 - Smrkec 3
 
-Opis projekta
+![Ekipa Smrkci](/img/ekipa-smrkci.jpg)
+
+**Opis projekta**
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum ex sem, a consectetur arcu 
 viverra sit amet. Donec pellentesque, nisl congue placerat pharetra, diam urna scelerisque neque, 
 ac egestas est justo a eros. Ut dui urna, tristique id interdum nec, aliquet eget augue. 
 sPraesent porta ut tellus a scelerisque.
 
-[Povezava do Github repozitorija](https://github.com/)
+<i class="fa fa-github-alt">&nbsp;</i>[Povezava do Github repozitorija](https://github.com/)
