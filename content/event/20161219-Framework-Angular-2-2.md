@@ -1,8 +1,8 @@
 +++
-date = "2016-12-14"
+date = "2016-12-19"
 description = ""
 tags = ["workshop", "framework", "pod havbo", "delavnice", "Angular2"]
-title = "Delavnica: Framework Angular 2"
+title = "Delavnica: Framework Angular 2 - 2.del"
 linkrsvp = "https://www.eventbrite.com/e/"
 
 +++
@@ -23,8 +23,8 @@ Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa 
    - V ukazni vrstici poženite: npm install -g angular-cli
    - V ukazni vrstici poženite: ng new Angular2Workshop
    - V ukazni vrstici poženite: cd Angular2Workshop 
-   - V ukazni vrstici poženite: ng serve (če se pokaže stran z tekstom - app works, ste uspešno pripravili okolje)
-
+   - V ukazni vrstici poženite: ng serve (če se pokaže stran z tekstom - app works, ste uspešno pripravili okolje)  
+  
 2. **Opcijsko** si lahko tudi namestite:
 
    - Visual Studio Code - zelo popularen urejevalnik kode za razvoj Angular 2 aplikacij
@@ -32,4 +32,6 @@ Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa 
 **Agenda:**
 
 - Teoretični uvod v framework Angular 2 - pregled glavnih sestavnih delov
-- Hands-on delavnica vodiča Tour of Heroes z uporabo orodja angular-cli
+- Hands-on delavnica vodiča Tour of Heroes z uporabo orodja angular-cli ([Povezava do vodiča](https://github.com/jamzi/Angular2Workshop))
+
+Na drugi del delavnic se lahko prijavite tudi, če niste obiskali prvega dela. V primeru obiska obeh delov delavnice, boste lahko na drugem delu nadaljevali z izdelavo Tour Of Heroes vodiča.
