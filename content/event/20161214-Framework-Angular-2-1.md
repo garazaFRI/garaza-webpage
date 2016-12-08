@@ -3,7 +3,7 @@ date = "2016-12-14"
 description = ""
 tags = ["workshop", "framework", "pod havbo", "delavnice", "Angular2"]
 title = "Delavnica: Framework Angular 2 - 1.del"
-linkrsvp = "https://www.eventbrite.com/e/"
+linkrsvp = "https://www.eventbrite.com/e/delavnica-angular-2-1-del-tickets-30143171036"
 
 +++
 **Trajanje:** od 14:00-16:00
