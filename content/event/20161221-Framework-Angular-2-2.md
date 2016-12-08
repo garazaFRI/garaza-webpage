@@ -3,7 +3,7 @@ date = "2016-12-21"
 description = ""
 tags = ["workshop", "framework", "pod havbo", "delavnice", "Angular2"]
 title = "Delavnica: Framework Angular 2 - 2.del"
-linkrsvp = "https://www.eventbrite.com/e/"
+linkrsvp = "https://www.eventbrite.com/e/delavnica-angular-2-2-del-tickets-30143618374"
 
 +++
 **Trajanje:** od 14:00-16:00
@@ -18,6 +18,8 @@ Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa 
 Najprej si bomo pogledali kratek teoretičen uvod v framework Angular 2 in njegove sestavne dele. Potem se bomo pa kar hitro prestavili 
 na Tour of Heroes vodič, kjer bomo spoznali glavni sestavni del Angular 2 - komponente. Kreirali bomo več komponent, jih logično razporedili, dodali servise za dostop do podatkov (services),
 navigacijo (routing) in na koncu spoznali še modul za kreiranje omrežnih zahtev HTTP (promises, observables).
+
+Na drugi del delavnic se lahko prijavite tudi, če niste obiskali prvega dela. V primeru obiska obeh delov delavnice, boste lahko na drugem delu nadaljevali z izdelavo Tour Of Heroes vodiča.
 
 **Zahteve:**
 
@@ -44,5 +46,3 @@ navigacijo (routing) in na koncu spoznali še modul za kreiranje omrežnih zahte
     - Servisi (1. del delavnice)
     - Navigacija (2. del delavnice)
     - HTTP (2. del delavnice)
-
-Na drugi del delavnic se lahko prijavite tudi, če niste obiskali prvega dela. V primeru obiska obeh delov delavnice, boste lahko na drugem delu nadaljevali z izdelavo Tour Of Heroes vodiča.
