@@ -4,7 +4,7 @@ description = ""
 draft = true
 tags = []
 title = "Ekipa Smrkci"
-weight = 1
+weight = 100
 +++
 Smo skupina Smrkci, ukvarjamo se z razvojem inteligentnih chatbotov.
 <!--more-->
