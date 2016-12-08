@@ -1,5 +1,5 @@
 +++
-date = "2016-12-19"
+date = "2016-12-21"
 description = ""
 tags = ["workshop", "framework", "pod havbo", "delavnice", "Angular2"]
 title = "Delavnica: Framework Angular 2 - 2.del"
