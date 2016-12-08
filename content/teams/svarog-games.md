@@ -1,11 +1,11 @@
 +++
 date = "2016-12-08T12:50:21+02:00"
-description = "Skupina razvijalcev iger"
+description = "Razvoj video iger"
 tags = []
 title = "Svarog Games"
 weight = 1
 +++
-Smo študentje Fakultete za računalništvo in informatiko, Akademije za likovno umetnost ter Fakultete za družbene vede. Multidisciplinarno ekipo smo ustanovili v želji razvijanja video iger. 
+Video igre za pametne televizije in Chromecast.
 <!--more-->
 
 **Člani ekipe:**
