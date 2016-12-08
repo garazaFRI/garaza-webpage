@@ -11,6 +11,7 @@ Skupinsko viharjenje ("*brainstorming*") in BoF sestanki sta mreženje s ciljem 
 ideje, ki se bodo potem uporabile v Garaži ali se v skupini zainteresiranih skupaj naučiti
 kakšne nove tehnologije.
 <!--more-->
+
 [BoF sestanki](https://en.wikipedia.org/wiki/Birds_of_a_feather_\(computing\))
 in viharjenje sta v primerjavi z delavnicami ["*Pod havbo*"](/program/delavnice/)
 bolj neformalni, nesrukturirani dejavnosti in brez vnaprej pripravljene podrobne

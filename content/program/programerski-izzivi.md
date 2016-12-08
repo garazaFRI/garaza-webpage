@@ -10,6 +10,7 @@ FRI sodeluje z različnimi podjetji in v sodelovanju z njimi pripravlja za svoje
 Vsi študenti, ki sodelujejo v enem od izzivov, lahko v času trajanja izziva uporabljajo prostore Garaže za
 delo. 
 <!--more-->
+
 V Garaži bomo tudi izvedli več tehničnih [delavnic](/program/delavnice/), ki jih bodo vodili strokovnjaki iz podjetij, 
 ki so izzive razpisala. Namenjene bodo tako tistim, ki sodelujejo na izzivu kot tudi drugim, ki jih samo zanima
 tematika.
