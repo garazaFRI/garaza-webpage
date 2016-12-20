@@ -36,6 +36,6 @@ Spodaj so navodila, če prejšnjo sredo niste uspeli slediti in bi radi nadaljev
    
 **Agenda:**
 
-    - Navigacija
-    - HTTP
-    - Zaključek (nadaljni viri in povezave)
+   - Navigacija
+   - HTTP
+   - Zaključek (nadaljni viri in povezave)
