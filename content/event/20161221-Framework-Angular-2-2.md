@@ -36,12 +36,6 @@ Spodaj so navodila, če prejšnjo sredo niste uspeli slediti in bi radi nadaljev
    
 **Agenda:**
 
-- Teoretični uvod v framework Angular 2 - pregled glavnih sestavnih delov
-- Hands-on delavnica vodiča Tour of Heroes z uporabo orodja angular-cli ([Povezava do vodiča](https://github.com/jamzi/Angular2Workshop))
-    - Priprava okolja (1. del delavnice)
-    - Uvod (1. del delavnice)
-    - Dodajanje več junakov (1. del delavnice)
-    - Več komponent (1. del delavnice)
-    - Servisi (1. del delavnice)
-    - Navigacija (2. del delavnice)
-    - HTTP (2. del delavnice)
+    - Navigacija
+    - HTTP
+    - Zaključek (nadaljni viri in povezave)
