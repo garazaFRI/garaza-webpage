@@ -15,11 +15,9 @@ Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa 
 
 <!--more-->
 
-Najprej si bomo pogledali kratek teoretičen uvod v framework Angular 2 in njegove sestavne dele. Potem se bomo pa kar hitro prestavili 
-na Tour of Heroes vodič, kjer bomo spoznali glavni sestavni del Angular 2 - komponente. Kreirali bomo več komponent, jih logično razporedili, dodali servise za dostop do podatkov (services),
-navigacijo (routing) in na koncu spoznali še modul za kreiranje omrežnih zahtev HTTP (promises, observables).
+Na drugem delu delavnice bomo nadaljevali z našim Tour Of Heroes vodičem. Pogledali si bomo še routing in HTTP modul. 
 
-Na drugi del delavnic se lahko prijavite tudi, če niste obiskali prvega dela. V primeru obiska obeh delov delavnice, boste lahko na drugem delu nadaljevali z izdelavo Tour Of Heroes vodiča.
+Spodaj so navodila, če prejšnjo sredo niste uspeli slediti in bi radi nadaljevali z izdelavo vodiča.
 
 **Zahteve:**
 
@@ -27,9 +25,10 @@ Na drugi del delavnic se lahko prijavite tudi, če niste obiskali prvega dela. V
 
    - NodeJS(LTS) - https://nodejs.org/en/
    - V ukazni vrstici poženite: npm install -g angular-cli
-   - V ukazni vrstici poženite: ng new Angular2Workshop
-   - V ukazni vrstici poženite: cd Angular2Workshop 
-   - V ukazni vrstici poženite: ng serve (če se pokaže stran z tekstom - app works, ste uspešno pripravili okolje)  
+   - V ukazni vrstici poženite: git clone https://github.com/jamzi/Angular2Workshop-1part.git
+   - V ukazni vrstici poženite: cd Angular2Workshop-1part
+   - V ukazni vrstici poženite: npm install
+   - V ukazni vrstici poženite: ng serve
   
 2. **Opcijsko** si lahko tudi namestite:
 
@@ -37,12 +36,6 @@ Na drugi del delavnic se lahko prijavite tudi, če niste obiskali prvega dela. V
    
 **Agenda:**
 
-- Teoretični uvod v framework Angular 2 - pregled glavnih sestavnih delov
-- Hands-on delavnica vodiča Tour of Heroes z uporabo orodja angular-cli ([Povezava do vodiča](https://github.com/jamzi/Angular2Workshop))
-    - Priprava okolja (1. del delavnice)
-    - Uvod (1. del delavnice)
-    - Dodajanje več junakov (1. del delavnice)
-    - Več komponent (1. del delavnice)
-    - Servisi (1. del delavnice)
-    - Navigacija (2. del delavnice)
-    - HTTP (2. del delavnice)
+    - Navigacija
+    - HTTP
+    - Zaključek (nadaljni viri in povezave)
