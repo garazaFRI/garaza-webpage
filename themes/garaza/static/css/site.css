@@ -56,21 +56,38 @@
   font-weight: normal;
   font-style: normal; }
 
+@font-face {
+  font-family: KlavikaRegular;
+  src: url("../fonts/klavika-regular-webfont.eot");
+  src: url("../fonts/klavika-regular-webfont.woff2");
+  font-weight: normal;
+  font-style: normal; }
+
 /* LAYOUT ------------------------------------------------------------------ */
-/*.navbar-offset {
-  margin-top: 120px;
-}
-*/
+
 footer {
   margin-top: 20px;
-  //border-top: 1px solid #f1f1f1;
-  border-top: 15px solid #C4161C;
-  //text-align: right;
-  color: #333;
+  font-size: 15px;
+  font-family: KlavikaRegular, Verdana;
+  color: #fff;
+  background-color: #333333;
   padding: 10px 20px 20px 20px;
-  //background-color: rgba(238, 46, 43, 1);
-  //background-color: #C4161C;
-  //background-color: #333;
+}
+
+footer img {
+  margin-top: 25px;
+}
+
+footer .container .row {
+  padding-top: 15px;
+}
+
+footer a, footer a:hover {
+  color: #fff;
+}
+
+footer .pure-menu-item {
+  margin-bottom: 15px;
 }
 
 .page-title {
@@ -87,9 +104,9 @@ footer {
   margin-bottom: 0;
 }
   .navbar-fri .navbar-brand {
-/*    color: whitesmoke;*/
-/*    color: #333;*/
+    font-family: KlavikaMedium, Verdana;
     color: #9d9fa2;
+    font-size: 20px;
     height: 100px; }
     .navbar-fri .navbar-brand:hover, .navbar-fri .navbar-brand:focus {
       color: #C4161C;
@@ -404,7 +421,7 @@ body {
   font-family: Arial, sans-serif; }
 
 h1, h2, h3, h4, legend {
-  font-family: KlavikaMedium, Verdana; }
+  font-family: KlavikaRegular, Verdana; }
 
 .btn,
 .panel,
@@ -470,7 +487,6 @@ input[type="file"] {
 }
 
 .notification .container ul li {
-  font-family: "Klavika-Regular" !important;
 	font-size: 27px !important;
 	color:#333333;
 	font-weight:normal !important;
