@@ -99,17 +99,17 @@ footer .pure-menu-item {
   background-color: rgba(255, 255, 255, 0.93);
   //background-color: rgba(238, 46, 43, 1);
   border: none;
-  border-bottom: 15px solid #C4161C;
+  padding-bottom: 15px;
   margin-top: 0;
   margin-bottom: 0;
 }
   .navbar-fri .navbar-brand {
-    font-family: KlavikaMedium, Verdana;
+    font-family: KlavikaRegular, Verdana;
     color: #9d9fa2;
     font-size: 20px;
     height: 100px; }
     .navbar-fri .navbar-brand:hover, .navbar-fri .navbar-brand:focus {
-      color: #C4161C;
+      color: #e12a26;
       background-color: transparent; }
     .navbar-fri .navbar-brand img {
       height: 90%; }
@@ -133,17 +133,17 @@ footer .pure-menu-item {
         display: inline-block;
         vertical-align: bottom; } }
     .navbar-fri .navbar-nav > li > a:hover, .navbar-fri .navbar-nav > li > a:focus {
-      color: #C4161C;
+      color: #e12a26;
       background-color: transparent; }
   .navbar-fri .navbar-nav > .active > a, .navbar-fri .navbar-nav > .active > a:hover, .navbar-fri .navbar-nav > .active > a:focus {
-    color: #C4161C;
+    color: #e12a26;
     background-color: #f1f1f1; }
   .navbar-fri .navbar-toggle {
     border-color: #545454; }
     .navbar-fri .navbar-toggle .icon-bar {
-      background-color: #C4161C; }
+      background-color: #e12a26; }
     .navbar-fri .navbar-toggle:hover, .navbar-fri .navbar-toggle:focus {
-      background-color: #C4161C; }
+      background-color: #e12a26; }
       .navbar-fri .navbar-toggle:hover .icon-bar, .navbar-fri .navbar-toggle:focus .icon-bar {
         background-color: white; }
 
@@ -163,10 +163,6 @@ footer .pure-menu-item {
   @media (max-width: 768px) {
     .element {
       height: auto; } }
-  .element:hover {
-    border: 1px solid #545454;
-    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #f1f1f1;
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #f1f1f1; }
   .element .element-podatki {
     display: inline-block;
     float: right;
@@ -185,7 +181,7 @@ footer .pure-menu-item {
     font-family: KlavikaMedium, Verdana; }
 
 .element.element-poudarjen {
-  height: 210px; }
+  height: 245px; }
   @media (max-width: 768px) {
     .element.element-poudarjen {
       height: auto; } }
@@ -421,7 +417,12 @@ body {
   font-family: Arial, sans-serif; }
 
 h1, h2, h3, h4, legend {
-  font-family: KlavikaRegular, Verdana; }
+  font-family: Verdana; 
+}
+
+h2 {
+  font-family: KlavikaRegular, Verdana;
+}
 
 .btn,
 .panel,
