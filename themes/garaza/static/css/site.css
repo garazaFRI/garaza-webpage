@@ -138,7 +138,6 @@ footer {
   border-radius: 2px;
   color: #333;
   min-height: 224px;
-  padding: 10px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
@@ -157,8 +156,12 @@ footer {
     height: 100%;
     width: 100%;
     overflow: hidden; }
+  .element .element-podatki .element-header {
+    background-color: #333;
+  }
   .element .element-podatki .element-header .element-title {
-    color: #e12a26;
+    color: #fff;
+    padding: 10px;
     display: block;
     margin-bottom: 1rem;
     font-size: 1.6em;
@@ -381,9 +384,6 @@ footer {
 .skip-small {
   margin-top: 2rem !important; }
 
-.skip-medium {
-  margin-top: 3rem !important; }
-
 .skip-large {
   margin-top: 5rem !important; }
 
@@ -459,9 +459,26 @@ input[type="file"] {
 
 .notification {
   border-top: 10px white solid;
-  background-color: #C4161C;
-  text-align: center;
-  color: whitesmoke;
+  font-size: 27px;
+  color: #333;
+}
+
+.notification .container ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.notification .container ul li {
+  font-family: "Klavika-Regular" !important;
+	font-size: 27px !important;
+	color:#333333;
+	font-weight:normal !important;
+  background-image: url("../img/bullet-heading.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: 0px 10px !important; 
+  padding-left: 26px !important;
+  line-height: 1.2em !important;
 }
 
 .element-projekt {
@@ -469,7 +486,7 @@ input[type="file"] {
 }
 
 .element-projekt .element-title {
-  border-bottom: 2px #e12a26 solid;
+  border-bottom: 4px #e12a26 solid;
 }
 
 .element-datum-dan, .element-datum-mesec, .element-datum-leto, .element-datum-rsvp {
@@ -502,4 +519,8 @@ input[type="file"] {
 
 .element .element-podatki h1 {
   color: #e12a26;
+}
+
+.element-box {
+  padding-top: 15px;
 }
