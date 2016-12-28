@@ -149,6 +149,7 @@ footer .pure-menu-item {
 
 /* elementi ------------------------------------------------------------------ */
 .element {
+  padding: 10px;
   display: block;
   width: 100%;
   border: 1px solid #ccc;
@@ -181,7 +182,7 @@ footer .pure-menu-item {
     font-family: KlavikaMedium, Verdana; }
 
 .element.element-poudarjen {
-  height: 245px; }
+  height: 265px; }
   @media (max-width: 768px) {
     .element.element-poudarjen {
       height: auto; } }
@@ -413,15 +414,16 @@ footer .pure-menu-item {
   margin-bottom: 5rem !important; }
 
 /* BOOTSTRAP OVERRIDES ----------------------------------------------------- */
-body {
-  font-family: Arial, sans-serif; }
-
-h1, h2, h3, h4, legend {
+h3, h4, legend {
   font-family: Verdana; 
 }
 
-h2 {
+h1, h2 {
   font-family: KlavikaRegular, Verdana;
+}
+
+.description {
+  font-family: Verdana;
 }
 
 .btn,
@@ -499,6 +501,7 @@ input[type="file"] {
 }
 
 .element-projekt {
+  padding: 0px;
   text-align: center;
 }
 
@@ -540,4 +543,8 @@ input[type="file"] {
 
 .element-box {
   padding-top: 15px;
+}
+
+.description {
+  font-size: 16px;
 }
