@@ -1,12 +1,16 @@
 {{ partial "header.html" . }}
 
 <section>
-  <img src="/img/cover1.jpg" alt="" class="cover">
+    <img src="/img/cover1.jpg" alt="" class="cover">
 </section>
 
 <section id="notifications-container" class="notification">
     <div class="container">
-        <h2>Ekipe</h2>
+        <ul>
+            <li>
+                <h2>Ekipe</h2>
+            </li>
+        </ul>
     </div>
 </section>
 
@@ -15,9 +19,7 @@
     {{ range .Data.Pages.GroupByDate "2006" }}
     <div class="skip-medium">
         <div class="row">
-            {{ range .Pages.ByWeight }}
-            {{ .Render "li_box" }}
-            {{ end }}
+            {{ range .Pages.ByWeight }} {{ .Render "li_box" }} {{ end }}
         </div>
     </div>
     {{ end }}
@@ -26,4 +28,5 @@
 {{ partial "footer.html" . }}
 
 </body>
+
 </html>

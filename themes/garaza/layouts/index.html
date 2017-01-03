@@ -5,17 +5,17 @@
 </section>
 
 <section id="notifications-container" class="notification">
-    <div class="container">
+  <div class="container">
+    <ul>
+      <li>
         <h2>{{ .Site.Params.subtitle }}</h2>
-    </div>
+      </li>
+    </ul>
+  </div>
 </section>
 
 <main class="container">
-  {{ range .Paginator.Pages }}
-    {{ if eq .Type "post" }}
-      {{ .Render "summary"}}
-    {{ end }}
-  {{ end }}
+  {{ range .Paginator.Pages }} {{ if eq .Type "post" }} {{ .Render "summary"}} {{ end }} {{ end }}
 
   <!-- {{ partial "pagination.html" . }} -->
 </main>
@@ -23,4 +23,5 @@
 {{ partial "footer.html" . }}
 
 </body>
+
 </html>

@@ -56,21 +56,38 @@
   font-weight: normal;
   font-style: normal; }
 
+@font-face {
+  font-family: KlavikaRegular;
+  src: url("../fonts/klavika-regular-webfont.eot");
+  src: url("../fonts/klavika-regular-webfont.woff2");
+  font-weight: normal;
+  font-style: normal; }
+
 /* LAYOUT ------------------------------------------------------------------ */
-/*.navbar-offset {
-  margin-top: 120px;
-}
-*/
+
 footer {
   margin-top: 20px;
-  //border-top: 1px solid #f1f1f1;
-  border-top: 15px solid #C4161C;
-  //text-align: right;
-  color: #333;
+  font-size: 15px;
+  font-family: KlavikaRegular, Verdana;
+  color: #fff;
+  background-color: #333333;
   padding: 10px 20px 20px 20px;
-  //background-color: rgba(238, 46, 43, 1);
-  //background-color: #C4161C;
-  //background-color: #333;
+}
+
+footer img {
+  margin-top: 25px;
+}
+
+footer .container .row {
+  padding-top: 15px;
+}
+
+footer a, footer a:hover {
+  color: #fff;
+}
+
+footer .pure-menu-item {
+  margin-bottom: 15px;
 }
 
 .page-title {
@@ -82,17 +99,17 @@ footer {
   background-color: rgba(255, 255, 255, 0.93);
   //background-color: rgba(238, 46, 43, 1);
   border: none;
-  border-bottom: 15px solid #C4161C;
+  padding-bottom: 15px;
   margin-top: 0;
   margin-bottom: 0;
 }
   .navbar-fri .navbar-brand {
-/*    color: whitesmoke;*/
-/*    color: #333;*/
+    font-family: KlavikaRegular, Verdana;
     color: #9d9fa2;
+    font-size: 20px;
     height: 100px; }
     .navbar-fri .navbar-brand:hover, .navbar-fri .navbar-brand:focus {
-      color: #C4161C;
+      color: #e12a26;
       background-color: transparent; }
     .navbar-fri .navbar-brand img {
       height: 90%; }
@@ -116,29 +133,29 @@ footer {
         display: inline-block;
         vertical-align: bottom; } }
     .navbar-fri .navbar-nav > li > a:hover, .navbar-fri .navbar-nav > li > a:focus {
-      color: #C4161C;
+      color: #e12a26;
       background-color: transparent; }
   .navbar-fri .navbar-nav > .active > a, .navbar-fri .navbar-nav > .active > a:hover, .navbar-fri .navbar-nav > .active > a:focus {
-    color: #C4161C;
+    color: #e12a26;
     background-color: #f1f1f1; }
   .navbar-fri .navbar-toggle {
     border-color: #545454; }
     .navbar-fri .navbar-toggle .icon-bar {
-      background-color: #C4161C; }
+      background-color: #e12a26; }
     .navbar-fri .navbar-toggle:hover, .navbar-fri .navbar-toggle:focus {
-      background-color: #C4161C; }
+      background-color: #e12a26; }
       .navbar-fri .navbar-toggle:hover .icon-bar, .navbar-fri .navbar-toggle:focus .icon-bar {
         background-color: white; }
 
 /* elementi ------------------------------------------------------------------ */
 .element {
+  padding: 10px;
   display: block;
   width: 100%;
   border: 1px solid #ccc;
   border-radius: 2px;
   color: #333;
   min-height: 224px;
-  padding: 10px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
@@ -147,25 +164,25 @@ footer {
   @media (max-width: 768px) {
     .element {
       height: auto; } }
-  .element:hover {
-    border: 1px solid #545454;
-    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #f1f1f1;
-    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #f1f1f1; }
   .element .element-podatki {
     display: inline-block;
     float: right;
     height: 100%;
     width: 100%;
     overflow: hidden; }
+  .element .element-podatki .element-header {
+    background-color: #333;
+  }
   .element .element-podatki .element-header .element-title {
-    color: #e12a26;
+    color: #fff;
+    padding: 10px;
     display: block;
     margin-bottom: 1rem;
     font-size: 1.6em;
     font-family: KlavikaMedium, Verdana; }
 
 .element.element-poudarjen {
-  height: 210px; }
+  height: 265px; }
   @media (max-width: 768px) {
     .element.element-poudarjen {
       height: auto; } }
@@ -381,9 +398,6 @@ footer {
 .skip-small {
   margin-top: 2rem !important; }
 
-.skip-medium {
-  margin-top: 3rem !important; }
-
 .skip-large {
   margin-top: 5rem !important; }
 
@@ -400,11 +414,17 @@ footer {
   margin-bottom: 5rem !important; }
 
 /* BOOTSTRAP OVERRIDES ----------------------------------------------------- */
-body {
-  font-family: Arial, sans-serif; }
+h3, h4, legend {
+  font-family: Verdana; 
+}
 
-h1, h2, h3, h4, legend {
-  font-family: KlavikaMedium, Verdana; }
+h1, h2 {
+  font-family: KlavikaRegular, Verdana;
+}
+
+.description {
+  font-family: Verdana;
+}
 
 .btn,
 .panel,
@@ -459,17 +479,34 @@ input[type="file"] {
 
 .notification {
   border-top: 10px white solid;
-  background-color: #C4161C;
-  text-align: center;
-  color: whitesmoke;
+  font-size: 27px;
+  color: #333;
+}
+
+.notification .container ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.notification .container ul li {
+	font-size: 27px !important;
+	color:#333333;
+	font-weight:normal !important;
+  background-image: url("../img/bullet-heading.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: 0px 10px !important; 
+  padding-left: 26px !important;
+  line-height: 1.2em !important;
 }
 
 .element-projekt {
+  padding: 0px;
   text-align: center;
 }
 
 .element-projekt .element-title {
-  border-bottom: 2px #e12a26 solid;
+  border-bottom: 4px #e12a26 solid;
 }
 
 .element-datum-dan, .element-datum-mesec, .element-datum-leto, .element-datum-rsvp {
@@ -502,4 +539,12 @@ input[type="file"] {
 
 .element .element-podatki h1 {
   color: #e12a26;
+}
+
+.element-box {
+  padding-top: 15px;
+}
+
+.description {
+  font-size: 16px;
 }
