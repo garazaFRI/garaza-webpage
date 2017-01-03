@@ -81,6 +81,23 @@ footer img {
 footer .container .row {
   padding-top: 15px;
 }
+@media (max-width: 768px) {
+  footer .container .row {
+    padding-top: 0px;
+  }
+
+  footer img {
+     margin-top: 5px;
+  }
+
+  .fri-info {
+    margin-top: 20px;
+  }
+
+  .social-info {
+    margin-top: 15px;
+  }
+}
 
 footer a, footer a:hover {
   color: #fff;
