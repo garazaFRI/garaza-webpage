@@ -8,6 +8,7 @@ paginate = 100
 [taxonomies]
   tag = "tags"
   topic = "topics"
+  group = "groups"
 
 [params]
   # Shown in the home page
@@ -28,7 +29,7 @@ url = "/ogarazi/"
 name = "Programi"
 weight = 1
 identifier = "programi"
-url = "/programi/"
+url = "/programi"
 [[languages.si.menu.main]]
 name = "Dogodki"
 weight = 2

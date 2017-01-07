@@ -14,19 +14,18 @@
     </div>
 </section>
 
-
 <div class="container">
-    {{ range .Data.Pages.GroupByDate "2006" }}
     <div class="skip-medium">
         <div class="row">
-            {{ range .Pages.ByWeight }} {{ .Render "li_box" }} {{ end }}
+            {{ if .Params.listing }} 
+                {{ range .Site.Taxonomies.groups.programi.Pages }} 
+                    {{ .Render "li_box" }} 
+            {{ end }} 
+            {{ else }} 
+                {{ .Content }} 
+            {{ end }}
         </div>
     </div>
-    {{ end }}
 </div>
 
 {{ partial "footer.html" . }}
-
-</body>
-
-</html>

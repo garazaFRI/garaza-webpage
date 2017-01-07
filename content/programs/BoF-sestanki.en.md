@@ -4,7 +4,8 @@ description = ""
 draft = false
 tags = []
 title = "Skupinsko viharjenje in BoF sestanki"
-groups = ["programi"]
+url = "/programs/bof-meetings"
+groups = ["programs"]
 weight = 4
 +++
 

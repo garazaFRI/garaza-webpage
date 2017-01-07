@@ -4,7 +4,8 @@ description = ""
 draft = false
 tags = []
 title = "Delavnice \"Pod havbo\""
-groups = ["programi"]
+url = "/programs/workshops"
+groups = ["programs"]
 weight = 2
 +++
 Praktične ("*hands-on*") delavnice o aktualnih strokovnih temah.

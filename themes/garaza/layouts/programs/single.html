@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+
+<section>
+    <img src="/img/cover1.jpg" alt="" class="cover">
+</section>
+
+<section id="notifications-container" class="notification">
+    <div class="container">
+        <ul>
+            <li>
+                <h2>Programs</h2>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<div class="container">
+    <div class="skip-medium">
+        <div class="row">
+            {{ if .Params.listing }} 
+                {{ range .Site.Taxonomies.groups.programs.Pages }} 
+                    {{ .Render "li_box" }} 
+            {{ end }} 
+            {{ else }} 
+                {{ .Content }} 
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

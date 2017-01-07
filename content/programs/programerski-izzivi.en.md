@@ -4,7 +4,8 @@ description = ""
 draft = false
 tags = []
 title = "Programerski izzivi in druga tekmovanja"
-groups = ["programi"]
+url = "/programs/programming-challenges"
+groups = ["programs"]
 weight = 3
 +++
 FRI sodeluje z različnimi podjetji in v sodelovanju z njimi pripravlja za svoje študente več različnih izzivov.
