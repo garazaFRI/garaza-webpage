@@ -8,20 +8,7 @@ url = "/programs/workshops"
 groups = ["programs"]
 weight = 2
 +++
-Praktične ("*hands-on*") delavnice o aktualnih strokovnih temah.
+TODO translate to english
 <!--more-->
 
-V delavnicah "*Pod havbo*" bomo skupaj dvignili pokrov motorja in se spustili v drobovje
-najnovejših IT tehologij.
-
-Predavatelji bodo izkušeni strokovnjaki iz industrije, FRIjevci in seveda tudi izkušeni
-študenti.
-
-- do 15 sodelujočih
-- vnaprej objavljena:
-  - agenda
-  - trajanje
-  - predvidena težavnostna stopnja
-  - potrebna predznanja
-- udeleženci večinoma najraje delajo kar na svojih računalnikih, seveda pa bodo tudi v
-  Garaži na voljo računalniki.  
+TODO translate to english
