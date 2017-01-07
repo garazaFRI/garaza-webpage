@@ -6,3 +6,6 @@
 
 - id: homepage_url
   translation: "/en"
+
+- id: read_more
+  translation: "Read more"

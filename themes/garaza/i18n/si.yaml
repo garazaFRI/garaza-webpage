@@ -6,3 +6,6 @@
   
 - id: homepage_url
   translation: "/"
+
+- id: read_more
+  translation: "Preberi več"

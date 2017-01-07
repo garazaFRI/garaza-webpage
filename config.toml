@@ -50,7 +50,7 @@ url = "/faq/"
 
 [languages.en]
 weight = 1
-title = "Garaža FRI | Student technology accelerator"
+title = "FRI Garage | Student technology accelerator"
 [[languages.en.menu.main]]
 name = "About"
 weight = 0
