@@ -3,7 +3,7 @@ defaultContentLanguage = "si"
 theme = "garaza"
 author = "Blaz Kostanjsek"
 canonifyurls = true
-paginate = 10
+paginate = 100
 
 [taxonomies]
   tag = "tags"

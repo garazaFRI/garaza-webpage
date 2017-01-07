@@ -7,5 +7,5 @@ weight = 1
 faqcategory = "Splošna vprašanja"
 
 +++
-Ko pridobite svoj ključek za odklepanje prostorov, lahko v Garaži delate kadarkoli v času, ko je 
-fakulteta odprta. Ključek za dostop vam odpira samo prostore Garaže, ne pa tudi kakšnih drugih prostorov.
+Ko pridobite svoj ključek za odklepanje prostorov, lahko v Garaži delate kadarkoli želite - 24/7/365.
+Ključek za dostop vam odpira samo prostore Garaže, ne pa tudi kakšnih drugih prostorov.

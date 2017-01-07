@@ -8,6 +8,7 @@ weight = 2
 +++
 Praktične ("*hands-on*") delavnice o aktualnih strokovnih temah.
 <!--more-->
+
 V delavnicah "*Pod havbo*" bomo skupaj dvignili pokrov motorja in se spustili v drobovje
 najnovejših IT tehologij.
 
