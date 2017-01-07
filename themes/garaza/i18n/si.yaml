@@ -3,3 +3,6 @@
 
 - id: subtitle
   translation: "Želiš uresničiti svoje ideje? Postani del Garaže."
+  
+- id: homepage_url
+  translation: "/"

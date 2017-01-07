@@ -3,3 +3,6 @@
 
 - id: subtitle
   translation: "Do you want to realize your ideas? Become a member of the FRI Garage."
+
+- id: homepage_url
+  translation: "/en"
