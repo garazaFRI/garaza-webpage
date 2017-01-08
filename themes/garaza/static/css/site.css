@@ -81,6 +81,23 @@ footer img {
 footer .container .row {
   padding-top: 15px;
 }
+@media (max-width: 768px) {
+  footer .container .row {
+    padding-top: 0px;
+  }
+
+  footer img {
+     margin-top: 5px;
+  }
+
+  .fri-info {
+    margin-top: 20px;
+  }
+
+  .social-info {
+    margin-top: 15px;
+  }
+}
 
 footer a, footer a:hover {
   color: #fff;
@@ -138,15 +155,12 @@ footer .pure-menu-item {
   .navbar-fri .navbar-nav > .active > a, .navbar-fri .navbar-nav > .active > a:hover, .navbar-fri .navbar-nav > .active > a:focus {
     color: #e12a26;
     background-color: #f1f1f1; }
-  .navbar-fri .navbar-toggle {
-    border-color: #545454; }
     .navbar-fri .navbar-toggle .icon-bar {
-      background-color: #e12a26; }
-    .navbar-fri .navbar-toggle:hover, .navbar-fri .navbar-toggle:focus {
-      background-color: #e12a26; }
-      .navbar-fri .navbar-toggle:hover .icon-bar, .navbar-fri .navbar-toggle:focus .icon-bar {
-        background-color: white; }
-
+      background-color: #333333; }
+    .navbar-fri .navbar-toggle {
+      margin-top: 20px;
+    }
+    
 /* elementi ------------------------------------------------------------------ */
 .element {
   padding: 10px;
