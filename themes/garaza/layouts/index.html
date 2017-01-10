@@ -8,17 +8,11 @@
   <div class="container">
     <ul>
       <li>
-        <h2>{{ .Site.Params.subtitle }}</h2>
+        <h2>Želiš uresničiti svoje ideje? <a class="homepage-joinus" href="/join">Postani del Garaže.</a></h2>
       </li>
     </ul>
   </div>
 </section>
-
-<main class="container">
-  {{ range .Paginator.Pages }} {{ if eq .Type "post" }} {{ .Render "summary"}} {{ end }} {{ end }}
-
-  <!-- {{ partial "pagination.html" . }} -->
-</main>
 
 {{ partial "footer.html" . }}
 
