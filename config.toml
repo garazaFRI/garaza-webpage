@@ -4,7 +4,7 @@ title = "Garaža FRI | Študentski tehnološki pospeševalnik"
 theme = "garaza"
 author = "Blaz Kostanjsek"
 canonifyurls = true
-paginate = 100
+paginate = 10
 
 [taxonomies]
   tag = "tags"
