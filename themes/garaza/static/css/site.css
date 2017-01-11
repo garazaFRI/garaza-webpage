@@ -138,13 +138,9 @@ footer .pure-menu-item {
     color: #e12a26;
     background-color: #f1f1f1; }
   .navbar-fri .navbar-toggle {
-    border-color: #545454; }
+    margin-top: 20px; }
     .navbar-fri .navbar-toggle .icon-bar {
-      background-color: #e12a26; }
-    .navbar-fri .navbar-toggle:hover, .navbar-fri .navbar-toggle:focus {
-      background-color: #e12a26; }
-      .navbar-fri .navbar-toggle:hover .icon-bar, .navbar-fri .navbar-toggle:focus .icon-bar {
-        background-color: white; }
+      background-color: #333333; }
 
 /* elementi ------------------------------------------------------------------ */
 .element {
