@@ -564,3 +564,11 @@ input[type="file"] {
 .description {
   font-size: 16px;
 }
+
+.homepage-joinus {
+  color: #333;
+}
+
+.homepage-joinus:hover {
+  color: #e12a26;
+}
