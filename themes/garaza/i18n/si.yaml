@@ -9,3 +9,12 @@
 
 - id: read_more
   translation: "Preberi več"
+
+- id: homepage_joinus_question
+  translation: "Želiš uresničiti svoje ideje? "
+
+- id: homepage_joinus_calltoaction
+  translation: "Postani del Garaže."
+  
+- id: homepage_joinus_link
+  translation: "/pridruzise"

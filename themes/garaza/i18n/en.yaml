@@ -9,3 +9,12 @@
 
 - id: read_more
   translation: "Read more"
+
+- id: homepage_joinus_question
+  translation: "Do you want to realize your ideas? "
+
+- id: homepage_joinus_calltoaction
+  translation: "Join FRI Garage."
+
+- id: homepage_joinus_link
+  translation: "/join"
