@@ -1,6 +1,5 @@
 baseurl = "http://garaza.io/"
-languageCode = "en-us"
-title = "Garaža FRI | Študentski tehnološki pospeševalnik"
+defaultContentLanguage = "si"
 theme = "garaza"
 author = "Blaz Kostanjsek"
 canonifyurls = true
@@ -9,6 +8,7 @@ paginate = 10
 [taxonomies]
   tag = "tags"
   topic = "topics"
+  group = "groups"
 
 [params]
   # Shown in the home page
@@ -16,37 +16,68 @@ paginate = 10
   googleAnalytics = "UA-78366821-1"
   dateFormat = "02 Jan 2006, 15:04"
 
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "O Garaži"
-    weight = 0
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Programi"
-    weight = 1
-    identifier = "program"
-    url = "/program/"
-  [[menu.main]]
-    name = "Dogodki"
-    weight = 2
-    identifier = "event"
-    url = "/event/"
-  [[menu.main]]
-    name = "Ekipe"
-    weight = 3
-    url = "/teams/"
-  [[menu.main]]
-    name = "Pridruži Se"
-    weight = 4
-    url = "/join/"
-  [[menu.main]]
-    name = "FAQ"
-    weight = 5
-    url = "/faq/"
+[languages]
+[languages.si]
+weight = 0
+title = "Garaža FRI | Študentski tehnološki pospeševalnik"
+[[languages.si.menu.main]]
+name = "O Garaži"
+weight = 0
+identifier = "ogarazi"
+url = "/ogarazi/"
+[[languages.si.menu.main]]
+name = "Programi"
+weight = 1
+identifier = "programi"
+url = "/programi"
+[[languages.si.menu.main]]
+name = "Dogodki"
+weight = 2
+identifier = "event"
+url = "/event/"
+[[languages.si.menu.main]]
+name = "Ekipe"
+weight = 3
+url = "/ekipe/"
+[[languages.si.menu.main]]
+name = "Pridruži Se"
+weight = 4
+url = "/pridruzise/"
+[[languages.si.menu.main]]
+name = "FAQ"
+weight = 5
+url = "/faq/"
 
-
+[languages.en]
+weight = 1
+title = "FRI Garage | Student technology accelerator"
+[[languages.en.menu.main]]
+name = "About"
+weight = 0
+identifier = "about"
+url = "/about/"
+[[languages.en.menu.main]]
+name = "Programs"
+weight = 1
+identifier = "programs"
+url = "/programs/"
+[[languages.en.menu.main]]
+name = "Events"
+weight = 2
+identifier = "event"
+url = "/event/"
+[[languages.en.menu.main]]
+name = "Teams"
+weight = 3
+url = "/ekipe/"
+[[languages.en.menu.main]]
+name = "Join us"
+weight = 4
+url = "/join/"
+[[languages.en.menu.main]]
+name = "FAQ"
+weight = 5
+url = "/faq/"
 
 [social]
   # Link your social networking accouns to the side menu

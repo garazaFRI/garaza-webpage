@@ -1,5 +1,4 @@
-﻿@charset "UTF-8";
-/* Od Bootstrapa. */
+@charset "UTF-8";
 /* Od Bootstrapa. */
 .element:before, .element-akcije:before, .form-actions:before, .element:after, .element-akcije:after, .form-actions:after {
   content: " ";
@@ -116,7 +115,6 @@ footer .pure-menu-item {
   background-color: rgba(255, 255, 255, 0.93);
   //background-color: rgba(238, 46, 43, 1);
   border: none;
-  padding-bottom: 15px;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -132,7 +130,7 @@ footer .pure-menu-item {
       height: 90%; }
   @media (min-width: 768px) {
     .navbar-fri .navbar-nav > li {
-      height: 100px; }
+      height: 65px; }
       .navbar-fri .navbar-nav > li:before {
         /* Strut element, da vertical-align deluje. */
         content: "";
@@ -155,12 +153,13 @@ footer .pure-menu-item {
   .navbar-fri .navbar-nav > .active > a, .navbar-fri .navbar-nav > .active > a:hover, .navbar-fri .navbar-nav > .active > a:focus {
     color: #e12a26;
     background-color: #f1f1f1; }
+
     .navbar-fri .navbar-toggle .icon-bar {
       background-color: #333333; }
     .navbar-fri .navbar-toggle {
       margin-top: 20px;
     }
-    
+  
 /* elementi ------------------------------------------------------------------ */
 .element {
   padding: 10px;
@@ -555,6 +554,23 @@ input[type="file"] {
   color: #e12a26;
 }
 
+.language-selection {
+  text-align: right;
+  margin-right: 15px;
+  margin-top: 25px;
+}
+
+.language-selection a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #333;
+  font-family: KlavikaMedium, Verdana;
+}
+
+.language-selection > a:hover, .language-selection > a:focus {
+      color: #C4161C;
+      background-color: transparent; }
+
 .element-box {
   padding-top: 15px;
 }
@@ -570,3 +586,4 @@ input[type="file"] {
 .homepage-joinus:hover {
   color: #e12a26;
 }
+
