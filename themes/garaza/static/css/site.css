@@ -550,6 +550,18 @@ input[type="file"] {
   background-color: #C4161C;
 }
 
+ @media (max-width: 460px) {
+    .element-datum-dan {
+      font-size: 50px; 
+    }
+    .element-datum-dan, .element-datum-mesec, .element-datum-leto, .element-datum-rsvp {
+      width: 68px;
+    }
+    .element-datum-rsvp { 
+      font-size: 18px;
+    }
+ }
+
 .element .element-podatki h1 {
   color: #e12a26;
 }
