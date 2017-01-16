@@ -10,5 +10,5 @@ V okviru prvega tehnološkega pospeševalnika na FRI bodo študenti uresničili 
 za katere do sedaj bodisi ni bilo znanja, opreme, prostora za delo ali pa niso poznali
 primerne tehnologije.
 
-Te zanima kaj Garaža sploh je in kaj se v njej dogaja? Pobrskaj po [strani](/about/).
+Te zanima kaj Garaža sploh je in kaj se v njej dogaja? Pobrskaj po [strani](/ogarazi/).
 <!--more-->

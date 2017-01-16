@@ -19,7 +19,7 @@
                 </div>
                 {{ if .Truncated }}
                 <footer>
-                    <a href="{{ .RelPermalink }}">Preberi več ...<i class="fa fa-angle-double-right fa-fw"></i></a>
+                    <a href="{{ .RelPermalink }}">{{ i18n "read_more" . }} ...<i class="fa fa-angle-double-right fa-fw"></i></a>
                 </footer>
                 {{ end }}
 
