@@ -525,7 +525,7 @@ input[type="file"] {
 .element-datum-dan, .element-datum-mesec, .element-datum-leto, .element-datum-rsvp {
   position: absolute;
   text-align: center;
-  width: 90px;
+  width: 15%;
   font-size: 20px;
   color: #C4161C;
 }
@@ -541,7 +541,6 @@ input[type="file"] {
 
 .element-datum-leto {
   margin-top: 120px;
-
 }
 
 .element-datum-rsvp, .element-datum-rsvp > a {
@@ -559,6 +558,9 @@ input[type="file"] {
     }
     .element-datum-rsvp { 
       font-size: 18px;
+    }
+    .element-datum-leto {
+      margin-top: 95px;
     }
  }
 
