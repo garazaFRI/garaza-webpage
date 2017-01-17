@@ -3,7 +3,7 @@ date = "2017-02-01"
 description = ""
 tags = ["workshop", "framework", "delavnice", "react"]
 title = "Delavnica: Let's React"
-linkrsvp = "TODO"
+linkrsvp = "https://www.eventbrite.com/e/delavnica-lets-react-tickets-31247607435"
 
 +++
 **Trajanje:** od 12:00-16:00
@@ -37,4 +37,4 @@ V delavnici boste spoznali osnove Reacta ter način razmišljanja za grajenje ap
 - CSS in JS (className, inline styles, aphrodite)
 - primer gradnje aplikacije za Spotify
 
-[Prijava na Eventbrite-u](TODO).
+[Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-lets-react-tickets-31247607435).
