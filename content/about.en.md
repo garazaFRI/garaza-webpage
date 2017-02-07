@@ -2,7 +2,7 @@
 date = "2016-02-25T13:29:32+01:00"
 draft = false
 title = "Student tech accelerator"
-description = "In the Garage, we are building a community where we meet, learn and develop interesting technology projects and discuss new ideas and technologies. It is a contact point between students, academics and businesses. Talented students from University of Ljubljana's faculties are collecting ICT knowledge, accumulate practical experiences, refine their technical skills, expand their social circle and create their startups."
+description = "In the Garage, we are building a community where we meet, learn and develop interesting projects and discuss new ideas and technologies. It is a contact point between students, academics and businesses. Talented students from University of Ljubljana's faculties are collecting ICT knowledge, accumulate practical experiences, refine their technical skills, expand their social circle and create their startups."
 url = "/about"
 +++
 
