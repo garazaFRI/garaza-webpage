@@ -1,8 +1,8 @@
 +++
 date = "2017-02-23"
 description = ""
-tags = ["workshop", "NIL", "delavnice", "UPnP", "hacking"]
-title = "Delavnica: HEK - Kljukico za UPnP lahko pustim kar na »default«?"
+tags = ["workshop", "NIL", "delavnice", "UPnP", "hacking", "network security", "hekanje omrežij"]
+title = "Delavnica: Hekanje domačih omrežij"
 linkrsvp = "https://www.eventbrite.com/e/delavnica-hek-kljukico-za-upnp-lahko-pustim-kar-na-default-tickets-31610475784"
 +++
 
