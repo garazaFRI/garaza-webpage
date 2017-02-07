@@ -1,8 +1,8 @@
 +++
 date = "2016-02-25T13:29:32+01:00"
 draft = false
-title = "What is FRI Garage?"
-description = "In the Garage, we are building a community where we meet, learn and develop interesting technology projects and discussing about new ideas and technologies. It is a contact point between the students, academic environment and business. Talented students from all faculties (University of Ljubljana) are collecting ICT knowledge, accumulate practical experiences, refine their technical skills and expand their social circle."
+title = "Student tech accelerator"
+description = "In the Garage, we are building a community where we meet, learn and develop interesting technology projects and discussing about new ideas and technologies. It is a contact point between the students, academic environment and business. Talented students from all faculties (University of Ljubljana) are collecting ICT knowledge, accumulate practical experiences, refine their technical skills, expand their social circle and create their startups."
 url = "/about"
 +++
 
@@ -11,7 +11,7 @@ url = "/about"
 - most comfortable, diverse, always open and flexible work spaces, furnished in "startup" style 
 - excellent microlocation in the lobby of faculty
 - big “coworkoing" space with movable 4K UHD TV and project, electric height-adjustable tables (standing work)
-- cozy spot to work or brainstorm with kitchen, refrigerator and sofa (!)
+- cozy spot to work or brainstorm with kitchen, refrigerator and sofa
 - separate smaller room with a large 4K UHD LED TV - ideal for sitautions, where you and your team needs a quiet corner for important meeting, smaller presentation, videoconference or teamwork.
 - because it does not carry out regular teaching process, spaces are available for use even when the rest of the spaces on faculty are occupied
 - currently the fastest and most advanced commercially available wireless WiFi network intended for work in the Garage
