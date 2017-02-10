@@ -1,7 +1,7 @@
 +++
 date = "2016-02-25T13:29:32+01:00"
 draft = false
-title = "Študentsi tehnološki pospeševalnik"
+title = "Študentski tehnološki pospeševalnik"
 description = "V Garaži gradimo skupnost, kjer se srečujemo, učimo, razvijamo zanimive tehnološke projekte ter razpravljamo o novih idejah in tehnologijah. Je stična točka med študenti, akademskim okoljem in gospodarstvom. Nadarjeni študenti vseh fakultet UL tu pridobivajo IKT znanja, nabirajo konkretne izkušnje, pilijo svoje tehnološke veščine, širijo svojo mrežo poznanstev in ustvarjajo začetke svojih zagonskih podjetij."
 url = "/ogarazi"
 +++
