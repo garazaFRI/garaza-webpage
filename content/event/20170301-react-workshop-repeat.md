@@ -2,8 +2,8 @@
 date = "2017-03-01"
 description = ""
 tags = ["workshop", "framework", "delavnice", "react"]
-title = "Delavnica: Let's React - ponovitev delavnice"
-linkrsvp = "TODO"
+title = "Delavnica: Let's React ...again"
+linkrsvp = "https://www.eventbrite.com/e/delavnica-lets-react-again-tickets-32111549509"
 
 +++
 **Trajanje:** od 12:00-16:00
@@ -37,4 +37,4 @@ V delavnici boste spoznali osnove Reacta ter način razmišljanja za grajenje ap
 - CSS in JS (className, inline styles, aphrodite)
 - primer gradnje aplikacije za Spotify
 
-[Prijava na Eventbrite-u](TODO).
+[Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-lets-react-again-tickets-32111549509).
