@@ -1,11 +1,12 @@
 +++
-date = "2017-05-04T12:50:21+02:00"
-description = "Informacijski sistem za naročanje konstruktov."
+date = "2016-12-08T12:50:21+02:00"
+description = "Informacijski sistem za naročanje genskih konstruktov."
 tags = []
 title = "Cell Designer"
-weight = 1
+weight = 5
 +++
-Cell Designer
+Hitrejše in uporabniku bolj prijazno naročanje genskih konstruktov.
+
 <!--more-->
 
 **Člani ekipe:**
@@ -17,4 +18,6 @@ Cell Designer
 
 **Opis projekta**
 
-- Smo študentje Fakultete za računalništvo in informatiko ter Biotehniške fakultete. Razvijamo informacijski sistem za lažje in hitrejše naročanje konstruktov.
+- Smo študentje Fakultete za računalništvo in informatiko ter Biotehniške
+  fakultete. Razvijamo informacijski sistem za lažje in hitrejše naročanje
+  genskih konstruktov.
