@@ -11,17 +11,17 @@ weight = 1
 The most important Garage activity. Selected student teams build their ideas in the accelerator programs.
 <!--more-->
 
-Do you have a great idea for a project? In the Garage, we will help you make it come true!
+Do you have a great idea for a project? In the Garage, we will help to transform it from an idea to reality.
 
 We offer:
 
 - workspace
 - mentoring for project (mentors from faculty or industry)
 - infrastructure
-- [microgrants](/faq/accelerator/microgrants) (read: funds for the purchase of necessary equipment / services / software that you need for the project) 
+- [microgrants](/faq/accelerator/microgrants) (read: funds for the purchase of necessary equipment / services / software that you need for the project)
 
-How do you apply project for Garage:
-- send the idea together with description, timeframes and team members to [our email](mailto:garaza@fri.uni-lj.si) or our personal emails in the Garage or on faculty
+How do you apply your project:
+- send the idea together with a description, timeframe and team members to [our email](mailto:garaza@fri.uni-lj.si) or our personal emails in the Garage or on faculty
 - if you are accepted in Garage, we specify the details together (finding a mentor, set the timing, resources, milestones of the project)
 
 What we expect:
@@ -29,4 +29,4 @@ What we expect:
 - visible progress of the project (for example: repository on Github)
 - **do not neglect your study commitments** while working on your project
 
-Milestones will therefore be set to adapt the expected study obligations (eg. in a weeks, where there are many exams, you plan less activity on the project).
+Milestones will therefore be set to adapt to your expected study obligations (eg. in a week, where there are many exams, you plan less activity on the project).
