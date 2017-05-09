@@ -2,7 +2,7 @@
   translation: "Where ideas become reality"
 
 - id: subtitle
-  translation: "Do you want to realize your ideas? Become a member of the FRI Garage."
+  translation: "Do you wish to bring your ideas to life? Become a member of the FRI Garage."
 
 - id: homepage_url
   translation: "/en"
@@ -11,10 +11,10 @@
   translation: "Read more"
 
 - id: homepage_joinus_question
-  translation: "Do you want to realize your ideas? "
+  translation: "Do you wish to bring your ideas to life? "
 
 - id: homepage_joinus_calltoaction
-  translation: "Join FRI Garage."
+  translation: "Join the FRI Garage."
 
 - id: homepage_joinus_link
   translation: "/join"
