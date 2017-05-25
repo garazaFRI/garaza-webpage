@@ -46,7 +46,7 @@ url = "/ogarazi"
   <div class="row">
     <div class="col-xs-2"><img src="/img/chsitipo-logo.gif" width=100%></div>
     <div class="col-xs-2"><img src="/img/agilcon-logo.png" width=100%></div>
-    <div class="col-xs-2"></div>
+    <div class="col-xs-2"><img src="/img/oracle-logo.png" width=100%></div>
     <div class="col-xs-2"></div>
     <div class="col-xs-2"></div>
     <div class="col-xs-2"></div>
