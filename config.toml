@@ -77,7 +77,7 @@ url = "/join/"
 [[languages.en.menu.main]]
 name = "FAQ"
 weight = 5
-url = "/faq/"
+url = "/en/faq/"
 
 [social]
   # Link your social networking accouns to the side menu
