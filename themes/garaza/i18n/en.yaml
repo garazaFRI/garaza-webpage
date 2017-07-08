@@ -21,3 +21,9 @@
 
 - id: faq_top_notice
   translation: "Frequent questions about the FRI garage. If you do not find answers, please contact us (contact details are on the bottom of the page)."
+
+- id: teams
+  translation: "Teams"
+
+- id: teams_not_active
+  translation: "Finished and inactive teams"

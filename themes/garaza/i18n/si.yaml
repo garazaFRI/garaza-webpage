@@ -22,3 +22,9 @@
 - id: faq_top_notice
   translation: "Pogosta vprašanja o Garaži. Če ne najdete odgovora na vaše vprašanje, nas prosim kontaktirajte (kontaktni podatki
   so spodaj na strani)."
+
+- id: teams
+  translation: "Ekipe"
+
+- id: teams_not_active
+  translation: "Končane in neaktivne ekipe"

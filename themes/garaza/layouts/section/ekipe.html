@@ -8,7 +8,7 @@
     <div class="container">
         <ul>
             <li>
-                <h2>Ekipe</h2>
+                <h2>{{ i18n "teams" . }} </h2>
             </li>
         </ul>
     </div>
@@ -17,11 +17,36 @@
 
 <div class="container">
     {{ range .Data.Pages.GroupByDate "2006" }}
-    <div class="skip-medium">
-        <div class="row">
-            {{ range .Pages.ByWeight }} {{ .Render "li_box" }} {{ end }}
-        </div>
-    </div>
+      <div class="skip-medium">
+          <div class="row">
+              {{ range .Pages.ByWeight }}
+                {{ if in .Params.tags "active" }}
+                  {{ .Render "li_box" }}
+                {{ end }}
+              {{ end }}
+          </div>
+          <br>
+          <div class="row">
+            <a class="pull-right"
+                role="button"
+                data-toggle="collapse"
+                href="#collapseNotActive"
+                aria-expanded="false"
+                aria-controls="collapseNotActive">
+              {{ i18n "teams_not_active" . }}
+              <span class="glyphicon glyphicon-arrow-right"></span>
+            </a>
+
+              <div class="collapse" id="collapseNotActive">
+                {{ range .Pages.ByWeight }}
+                  {{ if in .Params.tags "notactive" }}
+                    {{ .Render "li_box" }}
+                  {{ end }}
+                {{ end }}
+              </div>
+          </div>
+
+      </div>
     {{ end }}
 </div>
 
