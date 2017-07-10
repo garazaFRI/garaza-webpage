@@ -1,7 +1,7 @@
 +++
 date = "2016-12-08T12:50:21+02:00"
 description = "Razvoj video iger"
-tags = []
+tags = ["active"]
 title = "Svarog Games"
 weight = 1
 +++

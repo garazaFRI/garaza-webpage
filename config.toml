@@ -69,6 +69,7 @@ url = "/event/"
 [[languages.en.menu.main]]
 name = "Teams"
 weight = 3
+identifier = "ekipe"
 url = "/ekipe/"
 [[languages.en.menu.main]]
 name = "Join us"
