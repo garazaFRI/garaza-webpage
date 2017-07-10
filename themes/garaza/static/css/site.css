@@ -159,7 +159,7 @@ footer .pure-menu-item {
     .navbar-fri .navbar-toggle {
       margin-top: 20px;
     }
-  
+
 /* elementi ------------------------------------------------------------------ */
 .element {
   padding: 10px;
@@ -428,7 +428,7 @@ footer .pure-menu-item {
 
 /* BOOTSTRAP OVERRIDES ----------------------------------------------------- */
 h3, h4, legend {
-  font-family: Verdana; 
+  font-family: Verdana;
 }
 
 h1, h2 {
@@ -508,7 +508,7 @@ input[type="file"] {
 	font-weight:normal !important;
   background-image: url("../img/bullet-heading.png") !important;
   background-repeat: no-repeat !important;
-  background-position: 0px 10px !important; 
+  background-position: 0px 10px !important;
   padding-left: 26px !important;
   line-height: 1.2em !important;
 }
@@ -528,6 +528,7 @@ input[type="file"] {
   width: 15%;
   font-size: 20px;
   color: #C4161C;
+  max-width: 240px;
 }
 
 .element-datum-mesec {
@@ -551,12 +552,12 @@ input[type="file"] {
 
  @media (max-width: 460px) {
     .element-datum-dan {
-      font-size: 50px; 
+      font-size: 50px;
     }
     .element-datum-dan, .element-datum-mesec, .element-datum-leto, .element-datum-rsvp {
       width: 68px;
     }
-    .element-datum-rsvp { 
+    .element-datum-rsvp {
       font-size: 18px;
     }
     .element-datum-leto {
@@ -600,4 +601,3 @@ input[type="file"] {
 .homepage-joinus:hover {
   color: #e12a26;
 }
-

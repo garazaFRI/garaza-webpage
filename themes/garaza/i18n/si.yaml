@@ -3,7 +3,7 @@
 
 - id: subtitle
   translation: "Želiš uresničiti svoje ideje? Postani del Garaže."
-  
+
 - id: homepage_url
   translation: "/"
 
@@ -15,6 +15,10 @@
 
 - id: homepage_joinus_calltoaction
   translation: "Postani del Garaže."
-  
+
 - id: homepage_joinus_link
   translation: "/pridruzise"
+
+- id: faq_top_notice
+  translation: "Pogosta vprašanja o Garaži. Če ne najdete odgovora na vaše vprašanje, nas prosim kontaktirajte (kontaktni podatki
+  so spodaj na strani)."
