@@ -1,5 +1,5 @@
 +++
-date = "2017-11-29"
+date = "2017-11-28"
 description = ""
 tags = ["programerski izziv", "programming challenge", "competition"]
 title = "Programerski izziv: Zemanta - srečanje z inženirji"
