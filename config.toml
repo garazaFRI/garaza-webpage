@@ -1,4 +1,4 @@
-baseurl = "http://garaza.io/"
+baseurl = "https://garaza.io/"
 defaultContentLanguage = "si"
 theme = "garaza"
 author = "Blaz Kostanjsek"
