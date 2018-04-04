@@ -1,9 +1,9 @@
 +++
-date = "2015-11-26T12:50:21+02:00"
+date = "2016-12-08T12:50:21+02:00"
 description = "Liga inteligentnih agentov."
 tags = ["active"]
 title = "Lia"
-weight = 1
+weight = 6
 +++
 Liga inteligentnih agentov.
 
