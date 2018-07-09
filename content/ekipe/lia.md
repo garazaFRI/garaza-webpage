@@ -14,6 +14,7 @@ Liga inteligentnih agentov.
 - Aljaž Švigelj
 - David Kralj Serša
 - Gregor Krmelj
+- Miha Hribar
 
 **Opis projekta**
 
