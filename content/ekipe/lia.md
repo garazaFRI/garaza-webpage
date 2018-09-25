@@ -1,11 +1,12 @@
 +++
 date = "2016-12-08T12:50:21+02:00"
-description = "Liga inteligentnih agentov."
+description = "Lia je programersko tekmovanje v umetni inteligenci, kjer programerji pišejo AI bote, s katerimi tekmujejo drug proti drugemu."
 tags = ["active"]
 title = "Lia"
 weight = 6
 +++
-Liga inteligentnih agentov.
+
+<img src="/img/ekipe/lia.png" alt="Ekipa Lia" style="max-width: 150px; padding-bottom:10px;"/>
 
 <!--more-->
 
@@ -18,4 +19,6 @@ Liga inteligentnih agentov.
 
 **Opis projekta**
 
-- Lia je liga med programerji, ki za določeno računalniško igro zgradijo umetno inteligenco in se z njo borijo drug proti drugemu. V ospredje je postavljeno širjenje zmožnosti umetne inteligence javnosti preko interaktivnega prikaza iger. Celotna liga z vsemi igrami in statistikami je dostopna preko spletne aplikacije, kjer lahko kdorkoli opazuje napredek v razvoju razvijalcev in inteligentnih botov. Programerjem omogoča tekmovalno in vzpodbudno okolje za izboljševanje svojih programerskih sposobnosti, javnosti pa približa umetno inteligenco na zabavnejši način.
+Lia je liga med programerji, ki za določeno računalniško igro zgradijo umetno inteligenco in se z njo borijo drug proti drugemu. V ospredje je postavljeno širjenje zmožnosti umetne inteligence javnosti preko interaktivnega prikaza iger. Celotna liga z vsemi igrami in statistikami je dostopna preko spletne aplikacije, kjer lahko kdorkoli opazuje napredek v razvoju razvijalcev in inteligentnih botov. Programerjem omogoča tekmovalno in vzpodbudno okolje za izboljševanje svojih programerskih sposobnosti, javnosti pa približa umetno inteligenco na zabavnejši način.
+
+<i class="fa fa-home fa-fw">&nbsp;</i>[liagame.com](https://liagame.com)
