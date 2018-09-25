@@ -4,6 +4,7 @@ theme = "garaza"
 author = "Blaz Kostanjsek"
 canonifyurls = true
 paginate = 10
+pluralizelisttitles = false
 
 [taxonomies]
   tag = "tags"
@@ -64,7 +65,7 @@ url = "/programs/"
 [[languages.en.menu.main]]
 name = "Events"
 weight = 2
-identifier = "event"
+identifier = "events"
 url = "/event/"
 [[languages.en.menu.main]]
 name = "Teams"
