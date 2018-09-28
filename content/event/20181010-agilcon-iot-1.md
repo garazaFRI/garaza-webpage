@@ -3,7 +3,7 @@ date = "2018-10-10"
 description = ""
 tags = ["workshop", "framework", "pod havbo", "delavnice", "salesforce", "IoT"]
 title = "Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del"
-linkrsvp = "https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-47014233839"
+linkrsvp = "https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-50774273218"
 
 +++
 **Trajanje:** od 14:00-16:00
@@ -49,4 +49,4 @@ Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.
     - Razvoj procesa za obveščanje o meritvah
     - Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem
 
-[Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-47014233839).
+[Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-50774273218).
