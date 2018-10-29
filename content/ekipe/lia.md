@@ -16,7 +16,6 @@ Lia je programersko tekmovanje v umetni inteligenci, kjer programerji pišejo AI
 **Člani ekipe:**
 
 - Aljaž Švigelj
-- David Kralj Serša
 - Gregor Krmelj
 - Miha Hribar
 
