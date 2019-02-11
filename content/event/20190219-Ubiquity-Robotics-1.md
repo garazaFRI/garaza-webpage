@@ -6,11 +6,11 @@ title = "Workshop: So you want to build robots? (2 Days)"
 linkrsvp = ""
 
 +++
-**When**: Feb. 19 and Feb. 20, 17:00 - 20:00 (2 Days workshop)
+**When**: Feb. 19 and Feb. 20, 17:00 - 20:00 (2 Day workshop)
 
 **Where**: Garaza FRI
 
-**Presenter**: dr. David Crawley, Ubiquity Robotics
+**Presenter**: Dr. David Crawley, Ubiquity Robotics
 
 If you wanted to build a robot, what would you build? Imagine having a robotic platform that has all the basic elements (drive train, motor controllers, software stack) already in place. Imagine not needing to spend time, effort and money getting the basics right, but being able to just sit down and start building your own robot app quickly and easily. In this event you will get to try out the Magni platform, a [ROS](http://www.ros.org/)-based ground rover than can carry 100 kg. [Ubiquity Robotics](https://ubiquityrobotics.com/), the makers of [Magni](https://ubiquityrobotics.com/magni.html), challenge you to build something cool using it! 
 
@@ -27,7 +27,7 @@ Ubiquity Robotics is a start up that really did come out of a garage in Silicon 
 
 **Prerequisites:**
 
-- laptop (w/Linux or w/Linux VM on it)
+- laptop (w/Linux or w/Linux VM on it - you can [download a suitable VM here](https://downloads.ubiquityrobotics.com/) )
 - programming skills
 
 <!--more-->
