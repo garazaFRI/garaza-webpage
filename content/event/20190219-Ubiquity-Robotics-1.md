@@ -4,7 +4,7 @@ description = ""
 tags = ["workshop", "pod havbo", "delavnice", "robots", "ROS", "Ubiquity Robotics"]
 title = "Workshop: So you want to build robots? (2 Days)"
 linkrsvp = ""
-
+publishdate="2019-02-11"
 +++
 **When**: Feb. 19 and Feb. 20, 17:00 - 20:00 (2 Day workshop)
 
