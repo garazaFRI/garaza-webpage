@@ -3,7 +3,7 @@ date = "2019-02-19"
 description = ""
 tags = ["workshop", "pod havbo", "delavnice", "robots", "ROS", "Ubiquity Robotics"]
 title = "Workshop: So you want to build robots? (2 Days)"
-linkrsvp = ""
+linkrsvp = "https://www.eventbrite.com/e/workshop-so-you-want-to-build-robots-2-days-tickets-56395768261"
 publishdate="2019-02-11"
 +++
 **When**: Tuesday, Feb. 19 and Thursday, Feb. 21, 17:00 - 20:00 (2 Day workshop)
@@ -52,4 +52,4 @@ Day 2 (Feb 21)
 - 19:30 Demo (Pizza arrives)
 - 19:45 Prize awards and wrap up
 
-[Tickets on Eventbrite]().
+[Tickets on Eventbrite](https://www.eventbrite.com/e/workshop-so-you-want-to-build-robots-2-days-tickets-56395768261).
