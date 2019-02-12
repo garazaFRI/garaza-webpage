@@ -6,7 +6,7 @@ title = "Workshop: So you want to build robots? (2 Days)"
 linkrsvp = ""
 publishdate="2019-02-11"
 +++
-**When**: Feb. 19 and Feb. 20, 17:00 - 20:00 (2 Day workshop)
+**When**: Tuesday, Feb. 19 and Thursday, Feb. 21, 17:00 - 20:00 (2 Day workshop)
 
 **Where**: Garaza FRI
 
@@ -29,12 +29,13 @@ Ubiquity Robotics is a start up that really did come out of a garage in Silicon 
 
 - laptop (w/Linux or w/Linux VM on it - you can [download a suitable VM here](https://downloads.ubiquityrobotics.com/) )
 - programming skills
+- no robot/ROS knowledge necessary!
 
 <!--more-->
 
 **Agenda**:
 
-Day 1
+Day 1 (Feb 19)
 
 - 17:00 Start - kick off
 - 17:05 Introduction to the challenges
@@ -43,7 +44,7 @@ Day 1
 - 19:00 (Pizza arrives)
 - 20:00 Wrap up for Day 1
 
-Day 2
+Day 2 (Feb 21)
 
 - 17:00 Continue Hacking
 - 18:00 Hacking
@@ -52,4 +53,3 @@ Day 2
 - 19:45 Prize awards and wrap up
 
 [Tickets on Eventbrite]().
-
