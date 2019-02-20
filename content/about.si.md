@@ -48,7 +48,7 @@ url = "/ogarazi"
     <div class="col-xs-2"><img src="/img/agilcon-logo.png" width=100%></div>
     <div class="col-xs-2"><img src="/img/oracle-logo.png" width=100%></div>
     <div class="col-xs-2"><img src="/img/celtra-logo.png" width=100%></div>
-    <div class="col-xs-2"></div>
+    <div class="col-xs-2"><a href="https://ubiquityrobotics.com"><img src="/img/ur-logo.png" width=50%><img src="/img/ur-logo-text.png" width=100%></a></div>
     <div class="col-xs-2"></div>
   </div>
 </div>
