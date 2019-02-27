@@ -24,7 +24,8 @@ url = "/ogarazi"
 
 #### Zlati sponzor:
 <div class="container-fluid">
-  <div class="row">
+  <div class="row" style="display:flex;
+    align-items:center;">
     <div class="col-xs-5"><a href="https://microsoft.com"><img src="/img/microsoft-logo.png" width=100%></a></div>
     <div class="col-xs-6"></div>
   </div>
@@ -32,7 +33,8 @@ url = "/ogarazi"
 
 #### Srebrni sponzor: 
 <div class="container-fluid">
-  <div class="row">
+  <div class="row" style="display:flex;
+    align-items:center;">
     <div class="col-xs-3"><a href="https://nil.com"><img src="/img/nil-logo.png" width=100%></a></div>
     <div class="col-xs-1"></div>
     <div class="col-xs-3"><a href="https://intel.com"><img src="/img/intel-logo.png" width=100%></a></div>
@@ -43,12 +45,13 @@ url = "/ogarazi"
 
 #### Bronasti sponzor:
 <div class="container-fluid">
-  <div class="row">
+  <div class="row" style="display:flex;
+    align-items:center;">
     <div class="col-xs-2"><a href="http://www.itipo.net/"><img src="/img/chsitipo-logo.gif" width=100%></a></div>
     <div class="col-xs-2"><a href="https://agilcon.com"><img src="/img/agilcon-logo.png" width=100%></a></div>
     <div class="col-xs-2"><a href="https://oracle.com"><img src="/img/oracle-logo.png" width=100%></a></div>
     <div class="col-xs-2"><a href="https://celtra.com"><img src="/img/celtra-logo.png" width=100%></a></div>
-    <div class="col-xs-2"><a href="https://ubiquityrobotics.com"><img src="/img/ur-logo.png" width=50%><img src="/img/ur-logo-text.png" width=100%></a></div>
+    <div class="col-xs-2"><a href="https://ubiquityrobotics.com"><img src="/img/Ubiquity_logo.png" width=100%></a></div>
     <div class="col-xs-2"></div>
   </div>
 </div>
