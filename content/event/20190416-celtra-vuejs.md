@@ -3,7 +3,7 @@ date = "2019-04-16"
 description = ""
 tags = ["workshop", "framework", "pod havbo", "delavnice", "vuejs", "frontend"]
 title = "Delavnica: Vue.js v praksi"
-linkrsvp = "https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-59916234069
+linkrsvp = "https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-59916234069"
 
 +++
 **Trajanje**: od 14:00-17:00
@@ -29,4 +29,3 @@ Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih
 - Chrome z Vue Dev Tools
 
 [Prijava na Eventbrite-u](https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-59916234069).
-
