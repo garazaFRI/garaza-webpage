@@ -8,7 +8,7 @@ linkrsvp = "https://www.eventbrite.com/e/delavnica-izdelaj-svojega-chatbota-s-sa
 +++
 **Trajanje**: od 16:00-18:00
 
-**Predavata**: Marko Cenčič in Matevž Černe, Sapphir d.o.o. in SAP Slovenija
+**Predavata**: Marko Cenčič (SAP Slovenija) in Matevž Černe (Sapphir d.o.o.) 
 
 Chatboti oziroma pogovorni roboti so danes že dobro uveljavljena in priljubljena rešitev za komunikacijo podjetij s strankami. So namreč hitro odzivni, dostopni 24/7, z vse bolj dodelanimi rešitvami umetne inteligence (AI) pa omogočajo tudi vedno bolj izpopolnjeno uporabniško izkušnjo.
  
