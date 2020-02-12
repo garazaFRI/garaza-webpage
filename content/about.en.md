@@ -20,7 +20,7 @@ url = "/about"
 - mentoring students by faculty staff and top industry experts
 - organized demo days and public, media supported presentations of your projects
 
-# FRI Garage wouldn't exist without our fellow sponsors
+# FRI Garage wouldn't exist without our sponsors
 
 #### Golden sponsor:
 <div class="container-fluid">
