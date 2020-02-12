@@ -53,7 +53,7 @@ url = "/ogarazi"
     <div class="col-xs-2"><a href="https://celtra.com"><img src="/img/celtra-logo.png" width=100%></a></div>
     <div class="col-xs-2"><a href="https://ubiquityrobotics.com"><img src="/img/Ubiquity_logo.png" width=100%></a></div>
     <div class="col-xs-2"><a href="https://sap.com"><img src="/img/sap-logo.jpg" width=100%></a></div>
-    <div class="col-xs-2"></div>
+    <div class="col-xs-2"><a href="https://sapphir.si"><img src="/img/sapphir-logo.png" width=100%></a></div>
   </div>
 </div>
 
