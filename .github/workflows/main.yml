@@ -1,0 +1,35 @@
+name: Deploy to GitHub Pages
+on:
+  push:	
+    branches:	
+      - master
+  workflow_dispatch:
+  
+jobs:
+  deploy:
+    name: build and deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.18.1
+      HUGO_BINARY: hugo_0.18.1_Linux-64bit
+    steps:
+      - uses: actions/checkout@master
+      - name: Get Hugo tar
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+      - name: Extract Hugo binary
+        run: |
+          tar xvzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+          mv hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 /usr/local/bin/hugo
+      - name: Build site
+        run: | 
+          hugo
+          echo "garaza.io" > public/CNAME
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: git@github.com:garazaFRI/garazafri.github.io.git
+          BRANCH: master
+          #SQUASH_HISTORY: true
+          FOLDER: public
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
