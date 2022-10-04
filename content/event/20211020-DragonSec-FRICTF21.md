@@ -1,17 +1,17 @@
 +++
-date = "2022-10-13"
+date = "2021-10-20"
 description = ""
 tags = ["tekmovanje", "ctf", "DragonSec SI"]
 title = "FRICTF"
-linkrsvp = "https://events.dragonsec.si/frictf2022/"
-publishdate="2022-09-29"
+linkrsvp = "https://forms.gle/Lw1TWPFe34QuQeh19"
+publishdate="2021-09-29"
 +++
 
-**Trajanje**: 17:00 - 21:00
+**Trajanje**: 20.10.2021 - 22.10.2021; 18:00 - 21:00
 
-**Kje**: P1, računalniške učilnice
+**Kje**: P15, P16, P17, P21
 
-Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.
+Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.  
 
 Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.  
 
@@ -24,4 +24,4 @@ Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske v
 - Prenosni računalnik
 - [Kali virtualka](https://www.kali.org/get-kali/#kali-virtual-machines)
 
-[**Prijava na dogodek**](https://events.dragonsec.si/frictf2022/)
+[**Prijava na dogodek**](https://forms.gle/Lw1TWPFe34QuQeh19)
