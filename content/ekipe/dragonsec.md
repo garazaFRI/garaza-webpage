@@ -1,18 +1,19 @@
 +++
 date = "2022-10-04"
-description = "Tekmovanja CTF"
-tags = ["active", "ctf", "DragonSec SI"]
+tags = ["active"]
 title = "DragonSec SI"
-weight = 100
+weight = 7
 +++
 
+<img src="/img/dragonsec.png" alt="DragonSec" style="max-width: 200px" />
+
+<div style="padding: 10px;">
 Tekmovanja CTF, kibernetska varnost.
+</div>
 
 <!--more-->
 
 [**Člani ekipe**](https://dragonsec.si/clani.html)
-
-![DragonSec SI](/img/dragonsec.jpg)
 
 **Opis projekta**
 
