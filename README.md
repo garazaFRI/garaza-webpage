@@ -13,5 +13,4 @@ How to contribute:
     ```
 5. Submit Pull Request
 
-We use [Drone CI](https://github.com/drone/drone), generated pages are published in https://github.com/garazaFRI/garazafri.github.io.
-Drone uses custom Docker image https://hub.docker.com/r/matjazp/hugo-ci/.
+We use GH Actions, generated pages are automatically published in https://github.com/garazaFRI/garazafri.github.io.
