@@ -23,7 +23,7 @@ jobs:
           mv hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 /usr/local/bin/hugo
       - name: Build site
         run: | 
-          hugo
+          hugo --buildDrafts --buildFuture
           echo "garaza.io" > public/CNAME
       - name: Deploy
         uses: s0/git-publish-subdir-action@develop
