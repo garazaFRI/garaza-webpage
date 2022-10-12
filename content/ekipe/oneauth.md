@@ -5,8 +5,6 @@ tags = ["notactive"]
 title = "OneAuth"
 weight = 50
 +++
-OneAuth
-
 A single authentication app using QR codes
 
 <!--more-->
