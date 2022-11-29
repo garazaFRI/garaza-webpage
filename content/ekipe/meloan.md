@@ -1,10 +1,9 @@
 +++
-date = "2022-11-24T12:50:21+02:00"
-draft = true
+date = "2016-11-24T12:50:21+02:00"
 description = "Stremimo k digitalizaciji bančništva in kreditojemalstva."
 tags = ["active"]
 title = "MeLoan kreditni kalkulator"
-weight = 100
+weight = 8
 +++
 Smo skupina mladih entuziastov, katero združuje želja po ustvarjanju. Odlikujejo nas znanja iz področij informatike, računalništva in poslovnih ved.
 <!--more-->
