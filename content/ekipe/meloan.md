@@ -5,10 +5,10 @@ tags = ["active"]
 title = "MeLoan kreditni kalkulator"
 weight = 8
 +++
+<img src="/img/ekipa-meloan.png" alt="MeLoan" style="max-width: 200px" />
+
 Smo skupina mladih entuziastov, katero združuje želja po ustvarjanju. Odlikujejo nas znanja iz področij informatike, računalništva in poslovnih ved.
 <!--more-->
-
-<img src="/img/ekipa-meloan.png" alt="MeLoan" style="max-width: 200px" />
 
 **Člani ekipe:**
 
