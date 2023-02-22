@@ -35,6 +35,8 @@ url = "/about"
 <div class="container-fluid">
   <div class="row" style="display:flex;
     align-items:center;">
+    <div class="col-xs-3"><a href="https://sportradar.com"><img src="/img/Sportradar-logo.svg" width=100%></a></div>
+    <div class="col-xs-1"></div>
     <div class="col-xs-3"><a href="https://nil.com"><img src="/img/nil-logo.png" width=100%></a></div>
     <div class="col-xs-1"></div>
     <div class="col-xs-3"><a href="https://intel.com"><img src="/img/intel-logo.png" width=100%></a></div>
