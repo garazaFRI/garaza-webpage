@@ -7,7 +7,7 @@ linkrsvp = "https://events.dragonsec.si/dctf2023/"
 publishdate="2023-03-16"
 +++
 
-**Trajanje**: 11:00 - 20:00
+**Trajanje**: 9:00 - 22:00
 
 **Kje**: P1, računalniške učilnice
 
