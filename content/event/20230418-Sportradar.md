@@ -3,7 +3,6 @@ date = "2023-04-18"
 description = ""
 tags = ["iz teorije v prakso", "from theory to practice", "use cases", "security"]
 title = "'Jack of all trades' ali kako lahko izgleda vsakdan in kariera varnostnega eksperta"
-linkrsvp = ""
 publishdate="2023-03-05"
 +++
 **Trajanje**: ob 16h – 17h
