@@ -5,6 +5,8 @@ tags = ["iz teorije v prakso", "from theory to practice", "use cases", "security
 title = "'Jack of all trades' ali kako lahko izgleda vsakdan in kariera varnostnega eksperta"
 publishdate="2023-03-05"
 +++
+**OBVESTILO: Predavanje je zaradi bolezni predavatelja odpovedano in bo prestavljeno na kasnejši termin.**
+
 **Trajanje**: ob 16h – 17h
 
 **Kje**: Predavalnica P04
