@@ -7,7 +7,7 @@ publishdate="2023-03-05"
 +++
 **Trajanje**: ob 16h – 17h
 
-**Kje**: Predavalnica P04
+**Kje**: Predavalnica P02
 
 **Predavata**: Simon Hočevar (Product Manager) in Rok Resman (Lead Software Developer), Sportradar
 
