@@ -1,9 +1,10 @@
 +++
-date = "2023-09-30T18:08:00+02:00"
+date = "2016-10-04T12:50:21+02:00"
 tags = ["active"]
 title = "Kašča"
 weight = 50
 +++
+
 Kašča is resource managment system - created for scouts by scouts.
 
 <!--more-->
