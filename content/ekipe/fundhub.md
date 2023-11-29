@@ -1,7 +1,7 @@
 +++
 date = "2016-12-08T12:50:21+02:00"
 description = "Želimo digitalizirati dolgoročno investiranje."
-tags = ["active"]
+tags = ["notactive"]
 title = "Fundtickr"
 weight = 2
 +++
