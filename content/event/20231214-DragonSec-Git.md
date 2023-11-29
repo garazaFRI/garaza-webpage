@@ -19,4 +19,6 @@ Delavnica je namenjena vsem, ki se želijo pobližje spoznati s sistemom Git ali
 
 - Prenosni računalnik
 
+<!--more-->
+
 [**Prijava na dogodek**](https://events.dragonsec.si/git2023/)
