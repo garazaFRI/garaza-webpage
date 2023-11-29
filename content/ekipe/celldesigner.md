@@ -1,7 +1,7 @@
 +++
 date = "2016-12-08T12:50:21+02:00"
 description = "Informacijski sistem za naročanje genskih konstruktov."
-tags = ["active"]
+tags = ["notactive"]
 title = "Cell Designer"
 weight = 5
 +++
