@@ -1,7 +1,7 @@
 +++
 date = "2016-12-08T12:50:21+02:00"
 description = "Re-definiramo proces nakupovanja v trgovinah in trgovskih centrih."
-tags = ["active"]
+tags = ["notactive"]
 title = "Shopster, Indoor Solutions"
 weight = 3
 +++
