@@ -19,5 +19,5 @@ organize workshops.
 Intrigue students with new technology you are developing?
 Donate or loan equipment, with which motivated students can use to achieve the impossible?
 
-For more information, please contact the head of the FRI Garage program: dr. Matjaž Pančur
-(matjaz.pancur@fri.uni-lj.si) or garaza@fri.uni-lj.si.
+For more information: head of the FRI Garage dr. Matjaž Pančur
+(matjaz.pancur@fri.uni-lj.si).
