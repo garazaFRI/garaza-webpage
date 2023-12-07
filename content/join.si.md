@@ -20,6 +20,6 @@ Donirali ali posodili opremo, s katero bodo lahko najboljši in najbolj zaintere
 študentje premikali meje mogočega?
 
 
-Več informacij dobite pri vodji programa "Garaža FRI" Matjažu Pančurju 
-(matjaz.pancur@fri.uni-lj.si) ali na garaza@fri.uni-lj.si.
+Več informacij: vodja Garaže Matjaž Pančurj 
+(matjaz.pancur@fri.uni-lj.si).
 
