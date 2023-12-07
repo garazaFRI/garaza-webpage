@@ -20,6 +20,5 @@ Donirali ali posodili opremo, s katero bodo lahko najboljši in najbolj zaintere
 študentje premikali meje mogočega?
 
 
-Več informacij: vodja Garaže Matjaž Pančurj 
+Več informacij: vodja Garaže dr. Matjaž Pančur
 (matjaz.pancur@fri.uni-lj.si).
-
