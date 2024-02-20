@@ -2,7 +2,7 @@
 date = "2024-02-29"
 description = ""
 tags = ["delavnica", "Android Reversing", "Network Inspection", "DragonSec SI"]
-title = "Delavnica Android Reversing"
+title = "Delavnica Android Reversing 1/3"
 linkrsvp = "https://events.dragonsec.si/android2024/4097540/"
 publishdate="2024-02-20"
 +++
