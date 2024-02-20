@@ -15,4 +15,6 @@ Društvo DragonSec SI vabi na delavnico Android Reversing.
 
 Delavnica je namenjena vsem, ki se želijo pobližje spoznati z Android Reversingom.
 
+<!--more-->
+
 [**Prijava na dogodek**](https://events.dragonsec.si/android2024/4097542/)
