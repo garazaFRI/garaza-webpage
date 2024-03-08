@@ -1,21 +1,21 @@
 +++
-date = "2024-03-06T14:00:00+02:00"
-summary = "Tovorni robot z sledenjem"
+date = "2016-10-11T14:30:00+02:00"
+summary = "Tovorni robot s sledenjem"
 tags = ["active"]
 title = "CarryBot"
-weight = 33
+weight = 55
 +++
 
 **CarryBot**
 
-Tovorni robot z sledenjem
+Tovorni robot s sledenjem
 
 <!--more-->
 
 **Člani ekipe:**
 
 - Sara Peruš
-- Žam Blaznik Lesičnik
+- Žan Blaznik Lesičnik
 
 **Opis projekta**
 
