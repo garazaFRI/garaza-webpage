@@ -1,9 +1,9 @@
 +++
-date = "2024-08-31T14:00:00+02:00"
+date = "2016-10-11T14:30:00+02:00"
 summary = "Analizanje metapodatkov v omrežju BitTorrent"
 tags = ["active"]
 title = "travnik"
-weight = 69
+weight = 60
 +++
 
 Analiziranje metapodatkov v omrežju BitTorrent
