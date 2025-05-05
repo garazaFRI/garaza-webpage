@@ -7,7 +7,7 @@ weight = 2
 faqcategory = "Splošna vprašanja"
 
 +++
-Do ključka za odklepanje so upravičeni vsi študentje, ki sodelujejo v enem izmed [programov](/program/)
+Do ključka za odklepanje so upravičeni vsi študentje, ki sodelujejo v enem izmed [programov](/programi/)
 Garaže. Ker je v prostorih Garaže že sedaj kar nekaj opreme, tekom delovanja pa je bo na voljo še veliko več, 
 prostori ne morejo biti nezaklenjeni v času, ko v njej ni nikogar.
 
