@@ -1,4 +1,10 @@
-+++ date = "2026-01-12" description = "" tags = ["workshop", "ebpf"] title = "eBPF Meetup" publishdate="2026-01-06" +++
++++
+date = "2026-01-12" 
+description = "" 
+tags = ["workshop", "ebpf"] 
+title = "eBPF Meetup" 
+publishdate="2026-01-06" 
++++
 
 🚀 eBPF Meetup in Ljubljana: First Ever!
 ...with eBPF Hands-on Workshop!
@@ -7,6 +13,8 @@ Date: 12th January
 Time: 4:15–7:00 PM
 Location: University of Ljubljana, Faculty of Computer and Information Science | Večna pot 113, 1000 Ljubljana, P4 (Predavalnica 4)
 Admission: Free | In-person event only!
+
+<!--more-->
 
 As part of a guest lecture for DevOps course at UL FRI, we'll hear from Teodor Podobnik, Cloud Operations Lead at Prewave, and a recognized advocate in the eBPF community (https://ebpf.io). As an inaugural eBPF Fellowship recipient and eBPF Summit Hackathon Judge, he specializes in applying kernel-level insights and performance optimizations to cloud infrastructure. Teodor shares his expertise through active open-source contributions and as the creator of eBPFChirp, a leading newsletter and podcast dedicated to the eBPF ecosystem. 
 
