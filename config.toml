@@ -80,6 +80,9 @@ name = "FAQ"
 weight = 5
 url = "/en/faq/"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.

@@ -10,20 +10,18 @@ jobs:
     name: build and deploy to GitHub Pages
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.18.1
-      HUGO_BINARY: hugo_0.18.1_Linux-64bit
+      HUGO_VERSION: '0.163.0'
     steps:
       - uses: actions/checkout@master
       - name: Get Hugo tar
         run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz
       - name: Extract Hugo binary
         run: |
-          tar xvzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
-          mv hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 /usr/local/bin/hugo
+          tar xvzf hugo_${HUGO_VERSION}_linux-amd64.tar.gz
       - name: Build site
         run: | 
-          hugo --buildFuture
+          ./hugo --buildFuture
           echo "garaza.io" > public/CNAME
       - name: Deploy
         uses: s0/git-publish-subdir-action@develop
