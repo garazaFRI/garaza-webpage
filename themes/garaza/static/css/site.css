@@ -64,6 +64,15 @@
 
 /* LAYOUT ------------------------------------------------------------------ */
 
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+footer {
+    flex: 1;
+}
+
 footer {
   margin-top: 20px;
   font-size: 15px;
@@ -488,6 +497,7 @@ input[type="file"] {
 .cover {
   max-width: 300%;
   width: 100%;
+  background-color: #333333;
 }
 
 .notification {

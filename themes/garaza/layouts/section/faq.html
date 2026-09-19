@@ -34,10 +34,10 @@
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
-                    <a class="accordion-toggle collapsed" data-toggle="collapse" href="#collapse{{ .UniqueID }}">{{ .Title }}</a>
+                    <a class="accordion-toggle collapsed" data-toggle="collapse" href="#collapse{{ md5 .RelPermalink }}">{{ .Title }}</a>
                 </h4>
             </div>
-            <div id="collapse{{ .UniqueID }}" class="panel-collapse collapse">
+            <div id="collapse{{ md5 .RelPermalink }}" class="panel-collapse collapse">
                 <div class="panel-body">
                     {{ .Content }}
                 </div>

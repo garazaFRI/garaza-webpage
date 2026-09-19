@@ -1,6 +1,6 @@
 +++
 date = "2016-10-04T12:50:21+02:00"
-tags = ["active"]
+tags = ["notactive"]
 title = "Kašča"
 weight = 50
 +++
