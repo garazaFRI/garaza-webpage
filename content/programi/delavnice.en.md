@@ -5,7 +5,6 @@ draft = false
 tags = []
 title = "\"Under the hood\" workshops"
 url = "/programs/workshops"
-groups = ["programs"]
 weight = 2
 +++
 Practical ("*hands-on*") workshops on current technical topics.
