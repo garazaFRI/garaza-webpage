@@ -5,7 +5,6 @@ draft = false
 tags = []
 title = "Student accelerator"
 url = "/programs/accelerator"
-groups = ["programs"]
 weight = 1
 +++
 The most important Garage activity. Selected student teams build their ideas in the accelerator programs.

@@ -5,7 +5,6 @@ draft = false
 tags = []
 title = "Group brainstorming and BoF sessions"
 url = "/programs/bof-meetings"
-groups = ["programs"]
 weight = 4
 +++
 Brainstorming and BoF sessions are networking events with the aim to identify

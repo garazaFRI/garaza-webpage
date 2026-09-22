@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = []
 title = "Skupinsko viharjenje in BoF sestanki"
-groups = ["programi"]
 weight = 4
 +++
 Skupinsko viharjenje ("*brainstorming*") in BoF sestanki sta mreženje s ciljem identificirati

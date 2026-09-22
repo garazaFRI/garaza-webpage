@@ -5,7 +5,6 @@ draft = false
 tags = []
 title = "Programming challenges and other competitions"
 url = "/programs/programming-challenges"
-groups = ["programs"]
 weight = 3
 +++
 Our faculty cooperates with different companies and works with them to prepare
